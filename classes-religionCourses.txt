@@ -1,0 +1,31 @@
+REL100 - Introduction to The Church of Jesus Christ of Latter-day Saints
+REL121 - Book of Mormon
+REL122 - Book of Mormon
+REL130 - Missionary Preparation
+REL200C - The Eternal Family
+REL211 - New Testament
+REL212 - New Testament
+REL215 - Scripture Study
+REL225C - Foundations of the Restoration
+REL234 - Preparing for Eternal Marriage
+REL235 - Building an Eternal Marriage
+REL250C - Jesus Christ and His Everlasting Gospel
+REL261 - Introduction to Family History
+REL275C - The Teachings and Doctrine  of the Book of Mormon
+REL301 - Old Testament
+REL302 - Old Testament
+REL324 - Doctrine and Covenants
+REL325 - Doctrine and Covenants
+REL327 - Pearl of Great Price
+REL333 - Teachings of the Living Prophets
+REL341 - Church History
+REL342 - Church History
+REL343 - Church History
+REL345 - Presidents of the Church
+REL351 - World Religions
+REL352 - Christian History
+REL390R - Special Topics in Religion
+REL397 - Religious Research
+REL404 - Writings of Isaiah
+REL471 - Methods of Teaching Seminary
+REL475 - Seminary Teaching Seminar

@@ -1,0 +1,2047 @@
+ACCTG100 - Introduction to Accounting
+ACCTG180 - Survey of Accounting
+ACCTG201 - Financial Accounting
+ACCTG202 - Managerial Accounting
+ACCTG205 - Accounting Software
+ACCTG221R - Volunteer Income Tax Assistance
+ACCTG233 - Spreadsheet Application
+ACCTG275 - Accounting Profession Exploration and Orientation
+ACCTG299R - Special Projects
+ACCTG301 - Intermediate Financial Accounting I
+ACCTG302 - Intermediate Financial Accounting II
+ACCTG312 - Cost Accounting
+ACCTG321 - Income Taxation I
+ACCTG322 - Income Taxation II
+ACCTG333B - Advanced Spreadsheet Application
+ACCTG344 - Auditing
+ACCTG398R - Professional Internship
+ACCTG403 - Advanced Accounting
+ACCTG440 - International Accounting
+ACCTG456 - Accounting Information Systems
+ACCTG499 - Accounting Capstone
+AGBUS100 - Agriculture Orientation
+AGBUS105 - Entrepreneurship in Agribusiness
+AGBUS138 - Introduction to Agribusiness Leadership and Group Dynamics
+AGBUS147 - Introduction to International Agricultural Marketing
+AGBUS180A - Economics and Budgeting Principles
+AGBUS180B - Cash Accounting Concepts and Applications
+AGBUS197R - Agribusiness Practicum
+AGBUS201 - Agricultural Financial Accounting
+AGBUS210 - Agricultural Economics
+AGBUS347 - Agricultural Marketing
+AGBUS398 - Occupational Internship
+AGBUS410 - Agricultural Policy and Trade
+AGBUS420 - Agribusiness Operations Analysis
+AGBUS430 - Agricultural Price Analysis
+AGBUS435 - Agriculture Commodity Marketing
+AGBUS440 - Agribusiness Finance
+AGBUS450 - Agriculture Business Management
+AGBUS460 - Strategic Food and Agribusiness Management
+AGED297 - Agriculture Education Practicum
+AGTEC110 - Introduction to Agriculture Technology
+AGTEC125 - Agricultural Maintenance Welding
+AGTEC186 - GPS Applications in Agriculture
+AGTEC220 - Machinery Safety and Maintenance
+AGTEC230 - Agriculture Electrical Systems
+AGTEC290R - Individual Study
+AGTEC294 - Agriculture Fabrication
+AGTEC301 - Engine and Tractor Power
+AGTEC330 - Processing and Handling Systems
+AGTEC360 - Fluid Power Technology
+AGTEC465 - Machinery and Power Management
+AGTEC486 - Precision Agriculture
+AGTEC489 - Technology Capstone 1
+AGTEC490R - Technology Capstone 
+AGTEC491 - Technology Capstone 2
+AGRON301 - Soil Science
+AGRON321 - Soil Fertility and Plant Nutrition
+AGRON325 - Agricultural Irrigation
+AGRON330 - Forage Crops
+AGRON425 - Soil Management
+AGRON430 - Soil Taxonomy and Genesis
+AGRON435 - Crop Science
+AGRON440 - Crop Physiology
+AGRON445 - Crop Advisor Certification
+AGRON460 - Plant Pathology
+AGRON470 - Agroecology
+AS125 - Career Exploration in Animal Science
+AS135 - Introduction to Meat Products
+AS150 - Introduction to Animal Science
+AS215 - Animal Anatomy and Physiology
+AS215L - Animal Anatomy and Physiology Lab
+AS220 - Feeds and Nutrition
+AS234 - Veterinary Parasitology
+AS239 - Introduction to Animal Biotechnology 
+AS247 - Animal Handling and Behavior
+AS300 - Animal Science Seminar
+AS315 - Animal Health and Diseases
+AS330 - Artificial Insemination
+AS330L - Artificial Insemination Lab
+AS333 - Animal Genetics
+AS336 - Animal Reproduction
+AS340 - Horse Production
+AS350 - Small Animal Production
+AS355 - Principles of Meat Science
+AS360 - Beef Production
+AS365 - Applied Ruminant Nutrition
+AS380 - Companion Animal Management
+AS398R - Internship
+AS425 - Advanced Animal Nutrition
+AS430 - Applied Reproduction
+AS465 - Processed Meats
+AS490R - Research Practicum
+AS495 - Animal Science Capstone
+ANTH101 - Introduction to Cultural Anthropology
+APS103 - Home Gardening
+APS122 - Introduction to Plant Science
+APS123 - Introduction to Plant Science Laboratory
+APS220 - Introduction to Soils
+APS220L - Introduction to Soils Lab
+APS232 - Agriculture Sales and Merchandising
+APS290R - Special Problems
+APS299R - Seminar
+APS312 - Alternative Cropping Systems
+APS339R - APS Portfolio
+APS350 - Plant Breeding and Genetics
+APS397R - Agronomy  Practicum
+APS398R - Internship
+APS412 - Integrated Pest Management
+APS462 - Crop Insect Management
+APS465 - Integrated Weed Management
+APS490R - Special Topics in Applied Plant Science
+APS497R - Mentored Student Research
+ARAB101 - Arabic I
+ARAB102 - Arabic II
+ARCH100 - Survey of Architecture and Construction
+ARCH120 - Computer Aided Design I
+ARCH180 - Presentation Graphics I
+ARCH190 - Building Information Modeling I
+ARCH201 - Architectural Design
+ARCH225 - Architectural Detailing
+ARCH270 - Construction Documents
+ARCH285 - Presentation Graphics II
+ARCH290 - Building Information Modeling II
+ARCH300 - Design and Construction Technology
+ART101 - Introduction to the Visual Arts
+ART102 - General Art-2D
+ART106 - Freshman Art Orientation Seminar
+ART107 - Design and Color
+ART110 - Drawing I
+ART125 - Adobe CC Basics
+ART130 - Introduction to Graphic Design
+ART142 - Media Experimentation
+ART160 - Photography I
+ART201 - Art History I
+ART202 - Art History II
+ART210 - Drawing II
+ART212R - Head Drawing
+ART217 - Design and Color II
+ART220 - Ceramics I
+ART230 - Typography
+ART231 - Design Thinking: Inquiry and Innovation
+ART235 - Graphic Design
+ART240 - Introduction to Illustration
+ART245R - 2D Digital Illustration 
+ART248R - Character Animation I
+ART250 - Oil Painting I
+ART251 - Watercolor I
+ART260 - Intermediate Photography
+ART270 - Printmaking I
+ART272 - Introduction to Lithography
+ART280 - Sculpture I
+ART290R - Independent Study
+ART297R - Art Seminar
+ART300 - Research/Writing in Art History
+ART301 - Art of Ancient Near East & Egypt
+ART302 - Greek and Roman Art
+ART303 - Medieval Art
+ART304 - Global Art
+ART305 - Meso-American Art
+ART306 - History of Design & Illustration
+ART307 - History of Photography
+ART308 - American Art
+ART309 - Contemporary Art and Theory
+ART310 - Expressive Drawing
+ART311 - Layout and Story
+ART312R - Figure Drawing
+ART313 - Art Education Theory and Contemporary Practice
+ART314 - Secondary Art Methods I
+ART316 - Elementary Art Methods
+ART320 - Ceramics II
+ART330R - Conceptual Design
+ART331R - Information Design
+ART332R - User Interface Design
+ART333R - Surface & Pattern Design
+ART335R - Identity Design
+ART336 - Book Arts
+ART337R - User Experience Design
+ART341R - Narrative Illustration
+ART342R - Entertainment Illustration I
+ART345R - 3D Digital Illustration
+ART348R - Character Animation II
+ART350R - Painting II
+ART351R - Watercolor II
+ART355R - Life Painting
+ART356R - Landscape Painting
+ART357R - Painting Methodologies
+ART361 - Advanced Photography
+ART362 - Introduction to Studio Lighting
+ART364R - Advanced Black/White Photography
+ART365R - Photographic Projects
+ART366R - Commercial Photography
+ART370 - Printmaking II
+ART380R - Sculpture Medium and Methodology
+ART392 - Business for the Professional Artist
+ART395A - Travel Study in the Arts (A)
+ART395B - Travel Study in the Arts (B)
+ART395C - Travel Study in the Arts (C)
+ART395D - Travel Study in the Arts (D)
+ART395R - Travel Study in the Arts
+ART396R - Special Topics
+ART397R - Web Portfolio
+ART401 - Renaissance Art
+ART402 - Baroque Art
+ART403 - Nineteenth Century Art
+ART404 - Modern and Contemporary Art and Theory
+ART405R - Special Topics in Art History
+ART410R - Expressive Drawing 2
+ART412R - Advanced Figure Drawing
+ART414 - Secondary Art Methods II
+ART420R - Ceramics III
+ART430R - Sequential Design
+ART432R - Design Thinking: Customer Experience
+ART433R - Design Thinking: Research and Remote Collaboration
+ART434R - Design Thinking: Agile Product Management
+ART435R - Three-Dimensional Graphic Design
+ART436R - Motion Design
+ART437R - Advanced Typography
+ART441R - Advanced Illustration
+ART442R - Illustration Capstone
+ART450R - Advanced Painting
+ART456R - Advanced Landscape Painting
+ART460R - Portrait Photography
+ART462R - Historic Photographic Processes
+ART463R - Documentary Photography
+ART470R - Printmaking III
+ART475R - Advanced Book Arts
+ART480R - Figure Sculpture
+ART491R - Independent Study II
+ART492 - Portfolio Capstone
+ART495A - BFA Project Ceramics
+ART495B - BFA Project Drawing
+ART495C - Professional Projects
+ART495D - BFA Project Illustration
+ART495E - BFA Project Painting
+ART495F - BFA Project Photography
+ART495G - BFA Project Printmaking
+ART495H - BFA Project Sculpture
+ART498R - Internship in the Arts
+AUTO125 - Automotive Ownership and Maintenance
+AUTO131 - Electrical Systems
+AUTO131L - Electrical Systems Lab
+AUTO132 - Engine Performance
+AUTO132L - Engine Performance Lab
+AUTO155 - Chassis Systems
+AUTO155L - Chassis Systems Lab
+AUTO200 - Career Planning and Networking
+AUTO201 - Drivetrains
+AUTO201L - Drivetrains Lab
+AUTO223 - Climate Control
+AUTO223L - Climate Control Lab
+AUTO231 - Vehicle Electronics
+AUTO231L - Vehicle Electronics Lab
+AUTO232 - Engine Management Systems
+AUTO232L - Engine Management Systems Lab
+AUTO290R - Special Projects
+AUTO298R - Automotive Internship
+AUTO351 - Internal Combustion Engines
+AUTO351L - Internal Combustion Engine Lab
+AUTO366 - Automatic Transmissions
+AUTO366L - Automatic Transmissions Lab
+AUTO398R - Automotive Professional Internship
+AUTO481 - Drivability and Diagnostics
+AUTO481L - Drivability and Diagnostics Lab
+AUTO482 - Data Acquisition and Analysis
+AUTO482L - Data Acquisition and Analysis Lab
+AUTO483 - Hybrid and Electric Vehicle Technology
+AUTO483L - Hybrid and Electric Vehicle Technology Lab
+BIO101 - Introductory Biology for Allied Health
+BIO180 - Introduction to Biology I
+BIO180L - Introduction to Biology I Lab
+BIO181 - Introduction to Biology II
+BIO181L - Introduction to Biology II Lab
+BIO182 - Introduction to Biology III
+BIO198 - Wildlife & Natural Resource Career Orientation
+BIO199 - Biology Orientation
+BIO202 - Natural Resource Management
+BIO204 - Invert/Vertebrate Zoology
+BIO208 - General Botany
+BIO209 - An Evolutionary Survey of Plants
+BIO210 - Plant Systematics
+BIO221 - General Microbiology
+BIO222 - General Microbiology Lab
+BIO225 - Range Management
+BIO230 - Essentials of Human Anatomy & Physiology
+BIO240 - Neurobiology
+BIO250 - Environmental Biology with Lab
+BIO250L - Environmental Biology Lab
+BIO252 - Range Plant Taxonomy
+BIO264 - Human Anatomy & Physiology I
+BIO264L - Human Anatomy & Physiology I Lab
+BIO265 - Human Anatomy & Physiology II
+BIO265L - Human Anatomy & Physiology II Lab
+BIO295 - Pharmacology
+BIO302 - Ecology I
+BIO303 - Ecology II
+BIO311 - Scientific Writing and Communication
+BIO312 - Invertebrate Zoology
+BIO314 - Marine Biology
+BIO321 - Biology of Microorganisms
+BIO325 - Range Ecology Systems Management
+BIO331 - General Entomology
+BIO351 - Principles Wildlife Management
+BIO352 - Rangelands and Range Plants
+BIO360 - Principles of Fish Management
+BIO362 - Stream Ecology
+BIO370 - Conservation Genetics
+BIO375 - Genetics and Molecular Biology
+BIO376 - Cell and Molecular Biology
+BIO377 - Techniques in Biochemistry Molecular Biology
+BIO378 - Molecular Lab Pedagogy
+BIO380 - Histology with Lab
+BIO381 - Pathophysiology
+BIO382 - Bioinformatics
+BIO383 - Human Embryology
+BIO392 - Range and Wildland Restoration
+BIO393 - Range and Wildland Plant Ecology
+BIO398 - Occupational Internship
+BIO401R - Readings in Biology
+BIO408 - Advanced Botany
+BIO410 - Immunology
+BIO411 - Medical Microbiology
+BIO412 - Virology
+BIO413 - Advanced Microbiology Lab
+BIO420 - Principles of Limnology
+BIO423 - Natural Resources Law & Policy
+BIO430 - Advanced Pharmacology
+BIO445 - Ichthyology
+BIO446 - Ornithology
+BIO447 - Mammalogy
+BIO448 - Insect Systematics
+BIO455 - Rangeland Inventory/Analysis Lab
+BIO460 - Human Anatomy with Lab
+BIO461 - Principles of Physiology
+BIO462 - Head and Neck Anatomy
+BIO466 - Rangeland Inventory and Improvement
+BIO475 - Evolutionary Science
+BIO485 - Advanced Neuroscience
+BIO490 - Special Problems
+BIO497 - Senior Seminar
+BIO498R - Research and Occupational Internship
+BIO499R - Undergraduate Research
+BA211 - Business Fundamentals
+BA215 - Spreadsheet Analysis for Business
+BA315 - Business Analytics
+BA398R - Business Analytics Internship
+BA399R - Special Topics in Business Analytics
+BUS100 - Business Exploration and Orientation
+BUS101 - Introduction to Business
+BUS102 - Exploration of Business and Communication Professions
+BUS110 - Introduction to Entrepreneurship
+BUS115 - Business Applications
+BUS129 - Office Procedures
+BUS180 - The Cycle of Cash
+BUS200 - Small Business Management
+BUS210 - Small Business Creation
+BUS240 - Word Processing I
+BUS241 - Word Processing II
+BUS270 - Human Resource Management
+BUS298R - Beginning Internship
+BUS300 - IBC Business Basics
+BUS301 - Advanced Writing in Professional Contexts
+BUS302 - IBC Business Leadership
+BUS310 - Launching New Ventures
+BUS321 - Organizational Leadership
+BUS374 - Social Innovation
+BUS375 - Business Law
+BUS380 - International Business
+BUS398R - Advanced Business Internship
+BUS399R - Special Projects
+BUS410 - Entrepreneurial Management
+BUS499 - Principles of Business Strategy
+CHEM101 - Introductory Chemistry
+CHEM101L - Introductory Chemistry Lab
+CHEM105 - General Chemistry I
+CHEM105L - General Chemistry Laboratory I
+CHEM106 - General Chemistry II
+CHEM106L - General Chemistry Laboratory II
+CHEM220 - Quantitative Analysis
+CHEM220L - Quantitative Analysis Laboratory
+CHEM250 - Introductory Organic and Biochemistry
+CHEM250L - Introductory Organic & Biochemistry Lab
+CHEM290R - Special Topics in Chemistry
+CHEM351 - Organic Chemistry I
+CHEM351L - Organic Chemistry  Laboratory I 
+CHEM352 - Organic Chemistry II
+CHEM352L - Organic Chemistry Laboratory II
+CHEM391 - Technical Writing in Chemical Literature
+CHEM420 - Instrumental Analysis
+CHEM421 - Instrumental Analysis Lab
+CHEM461 - Physical Chemistry
+CHEM462 - Physical Chemistry II
+CHEM464 - Physical Chemistry Lab
+CHEM468 - Physical Biochemistry
+CHEM470 - Inorganic Chemistry
+CHEM471 - Advanced Laboratory
+CHEM481 - Biochemistry I
+CHEM481L - Advanced Biochemistry Laboratory
+CHEM482 - Biochemistry II
+CHEM485 - Introduction to Biochemistry Literature
+CHEM490R - Advanced Topics in Chemistry
+CHEM492R - Student Research
+CHEM498 - Chemistry/Biochemistry Internship
+CHILD120 - Infants and Toddlers
+CHILD150 - Foundations of Early Childhood
+CHILD210 - Child Development
+CHILD230 - Curriculum for Young Children
+CHILD232 - Language and Literacy
+CHILD234 - Fostering Development in Natural Settings
+CHILD295 - Overview of the Profession
+CHILD300 - Infant and Toddler Development
+CHILD310 - Early and Middle Child Development
+CHILD320 - Adolescent Development
+CHILD330 - Parent Education
+CHILD345A - School-Age Fundamental Principles
+CHILD345B - School Age Applied Principles
+CHILD345L - School-Age Lab Experience
+CHILD350 - Observation and Assessment
+CHILD390R - Special Topics in Child Studies
+CHILD395 - Professional Skills and Responsibilities
+CHILD400 - Research Methods
+CHILD440 - Program Administration
+CHILD495 - Launching into the Profession
+CHILD498R - Internship
+CHIN101 - Beginning Mandarin I
+CHIN102 - Beginning Mandarin II
+CHIN201 - Intermediate Mandarin I
+CHIN202 - Intermediate Mandarin II
+CHIN301 - Advanced Mandarin I
+CHIN302 - Advanced Mandarin II
+CHIN345 - Chinese Culture
+CHIN347 - Topics in Advanced Chinese
+CHIN377 - Chinese Teaching Methods
+CHIN401 - Advanced Topics in Mandarin Chinese I
+CHIN402 - Advanced Topics in Mandarin Chinese II
+CHIN490R - Independent Study in Chinese
+CE250 - Civil Engineering Materials Science
+CE250L - Civil Engineering Materials Lab
+CE321 - Structural Analysis
+CE341 - Elementary Soil Mechanics
+CE351 - Environmental Engineering
+CE360 - Fluid Mechanics for Civil Engineers
+CE361 - Introduction to Transport Engineering
+CE370 - Hydrology
+CE421 - Structural Steel Design
+CE424 - Reinforced Concrete Design
+CE429 - Design of Wood Structures
+CE433 - Hydraulic Engineering
+CE441 - Geotechnical Engineering Design
+CE451 - Water and Wastewater Treatment Process Design
+CE461 - Geometric Design of Highways
+CE470 - Civil Engineering Practice and Design
+CE490R - Special Problems in Civil Engineering
+CE495R - Special Topics in Civil Engineering
+COMM100 - Introduction to Communication
+COMM102 - Public Speaking
+COMM111 - Writing for Communication Career
+COMM130 - Visual Media
+COMM140 - Mass Media and Society
+COMM150 - Interpersonal Theory and Practice
+COMM175 - Communication Essentials
+COMM235 - PR Principles and Practices
+COMM240 - Newsgathering Principles and Practices
+COMM250 - Organizational Principles
+COMM260 - Video Principles and Practices
+COMM265 - Video and Film Production Essentials
+COMM273 - Professional Presentations
+COMM280 - Communication Research Fundamentals
+COMM289 - Communication Career Workshop
+COMM297R - Communication Practicum I
+COMM300 - Digital Imaging
+COMM305 - Vector Graphics
+COMM307 - Ethics and Legal Issues
+COMM310 - Creating Online Media
+COMM315 - Design for Social Media
+COMM316 - Professional Imaging
+COMM320 - Digital Media Content Creation
+COMM322 - Digital Media Analytics and Strategy
+COMM335 - Public Relations Writing and Production
+COMM339 - Events Management
+COMM340 - Advanced Media Writing
+COMM342 - Editing Essentials
+COMM350 - Group Dynamics
+COMM352 - Persuasion
+COMM360 - Video Journalism
+COMM362 - Broadcast Performance
+COMM365 - Short Film Production
+COMM375 - Media Business Ownership
+COMM397A - Scroll Practicum
+COMM397B - Scroll Digital Practicum
+COMM397C - Soapbox Practicum
+COMM397D - Social Media Practicum
+COMM397E - Community Outreach Practicum
+COMM397F - Radio Station Practicum
+COMM397G - Audio/Visual Production Practicum
+COMM397H - Visual Emphasis Practicum
+COMM397R - Communication Practicum II
+COMM420 - Digital and Social Media Campaigns
+COMM435 - Public Relation Campaigns
+COMM440 - News in the 21st Century
+COMM450 - Conflict Management and Negotiation
+COMM462 - Advanced Visual Media
+COMM465 - Documentary Filmmaking
+COMM470 - Strategic Communication and Social Change
+COMM490 - Directed Studies and Projects
+COMM497A - WordPress Practicum
+COMM497B - Motion Graphic Software Practicum
+COMM497C - Screenwriting Practicum
+COMM497D - Photojournalism Practicum
+COMM497E - Color and Sound for Video Practicum I
+COMM497F - Color and Sound for Video Practicum II
+COMM497G - Media Composer Fundamentals Practicum I
+COMM497H - Media Composer Fundamentals Practicum II
+COMM497I - Video Editing
+COMM497R - Special Topics Practicum
+COMM498R - Communication Internship
+COMM499 - Communication Senior Project
+CIT101A - Discovering Computing - Survey
+CIT101B - Discover Computing - Exploration
+CIT101C - Discovering Computing
+CIT110 - Introduction to Excel
+CIT111 - Introduction to Databases
+CIT112 - Introduction to Linux
+CIT151 - Operating System Fundamentals
+CIT160 - Introduction to Programming
+CIT171 - Introduction to Cybersecurity
+CIT225 - Database Design & Development
+CIT240 - Networking
+CIT241 - Network Design I
+CIT260 - Object Oriented Programming
+CIT262 - IT Management and DevOps
+CIT270 - Systems Security I
+CIT295 - Practicum
+CIT298R - Introductory Internship
+CIT325 - Database Programming
+CIT326 - Database Administration
+CIT327 - Data Warehousing
+CIT341 - Network Design II
+CIT345 - Wireless Networking
+CIT352 - Operating Systems I
+CIT353 - Operating Systems II
+CIT354 - Virtualized Enterprise Systems
+CIT360 - Object Oriented Development
+CIT361 - Advanced Scripting
+CIT365 - .NET Software Development
+CIT380 - Project Management
+CIT381 - Business Intel and Analytics
+CIT399R - Introductory Special Topics
+CIT470 - Systems Security II
+CIT490 - Senior Project
+CIT495 - Senior Practicum
+CIT498 - Internship
+CIT499R - Special Topics
+CITBC102 - Hardware Technician
+CITBC125 - Windows Client
+CITBC150 - Introduction to Networking
+CS101 - Introduction to Programming
+CS124 - Introduction to Software Development
+CS165 - Object-Oriented Software Development
+CS213 - Web Engineering I
+CS225 - Database Design & Development
+CS235 - Data Structures
+CS241 - Survey Object-Oriented Programming/Data Structures
+CS246 - Software Design and Development
+CS308 - Technical Communication
+CS345 - Operating Systems
+CS364 - Software Engineering I
+CS416 - Software Engineering II
+CS432 - Software Engineering III
+CSE100 - Introduction to Computing
+CSE110 - Programming Building Blocks
+CSE111 - Programming with Functions
+CSE120A - R Language
+CSE120B - Python Language
+CSE120C - Visual Basic for Applications Language
+CSE121A - Clojure Language
+CSE121B - JavaScript Language
+CSE121C - C Language
+CSE121E - Erlang Language
+CSE130 - Algorithm Design
+CSE131 - Modularization Design
+CSE170 - Introduction to Technical Teamwork
+CSE180 - Algorithmic Thinking
+CSE210 - Programming with Classes
+CSE212 - Programming with Data Structures
+CSE220C - C++ Language
+CSE222A - Swift Language
+CSE222B - Kotlin Language
+CSE230 - Encapsulation Design
+CSE231 - Inheritance Design
+CSE232 - Designing Data Structures
+CSE251 - Parallelism and Concurrency
+CSE270 - Software Testing
+CSE272 - Software Lifecycle Models
+CSE280 - Discrete Mathematics 
+CSE290R - Special Topics
+CSE310 - Applied Programming
+CSE320A - Mobile Programming
+CSE331 - Design Patterns
+CSE340 - Web Backend Development I
+CSE341 - Web Backend Development II
+CSE352 - Operating System Services
+CSE353 - Computer Graphics
+CSE354 - Computer Networks
+CSE372 - Requirements Elicitation
+CSE381 - Algorithms and Complexity
+CSE382 - Patterns in Functional Programming
+CSE398 - Internship
+CSE430 - Architectural Design
+CSE450 - Machine Learning
+CSE453 - Computer Security
+CSE471 - User Interface Evaluation & Design
+CSE473 - Process Improvement
+CSE474 - Quality Assurance
+CSE480 - Computational Theory
+CSE481 - Massively Parallel Computation
+CSE490R - Special Topics
+CSE498R - Internship
+CSE499 - Senior Project
+CSE499A - Senior Project, Part A
+CSE499B - Senior Project, Part B
+CONST100 - Basic Woodworking
+CONST120 - Framing Systems
+CONST200 - Furniture Making
+CONST210 - Finishing Systems
+CONST221 - Construction Safety
+CONST235 - Building Systems
+CONST260 - Statics and Strength of Materials
+CONST285 - Construction Estimating
+CONST290R - Special Problems
+CONST291 - Field Scheduling
+CONST298 - Beginning Internship
+CONST300 - Cabinetmaking
+CONST311 - Construction BIM
+CONST335 - Design of Construction Systems
+CONST340 - Land Surveying
+CONST350 - Soils
+CONST355 - Construction Materials
+CONST380 - Project Management
+CONST391 - Construction Scheduling
+CONST400 - Advanced Estimating and Bidding
+CONST430 - Construction Law
+CONST498 - Construction Internship
+CONST499 - Capstone: Construction Principles
+DANCE103 - Introduction to Dance Major and Professions
+DANCE131 - Jazz Dance, Beginning
+DANCE135 - Tap Dance, Beginning
+DANCE140 - Modern Dance, Beginning
+DANCE170 - World Dance, Beginning
+DANCE171 - Clog Dance, Beginning
+DANCE180M - Social Dance, Beginning
+DANCE180W - Social Dance, Beginning
+DANCE181M - Country West Social Dance, Beginning
+DANCE181W - Country West Social Dance, Beginning
+DANCE184M - International Standard Beginning
+DANCE184W - International Standard Beginning
+DANCE185M - International Latin Beginning
+DANCE185W - International Latin Beginning
+DANCE190 - Ballet, Beginning
+DANCE231R - Jazz Dance Intermediate
+DANCE235R - Tap Dance Technique
+DANCE240R - Modern Dance Technique I
+DANCE242 - Improvisation and Choreography
+DANCE270R - World Dance Technique 1
+DANCE271R - Clog Dance Technique I
+DANCE280M - Social Dance Intermediate I
+DANCE280W - Social Dance Intermediate I
+DANCE281M - Social Dance Intermediate II
+DANCE281W - Social Dance Intermediate II
+DANCE284M - International Standard Technique I
+DANCE284W - International Standard Technique I
+DANCE285M - International Latin Technique I
+DANCE285W - International Latin Technique I
+DANCE290R - Ballet Technique I
+DANCE295 - Dance Kinesiology I
+DANCE299R - Practicum
+DANCE310R - Conditioning for Dancers
+DANCE331R - Jazz Dance Advanced
+DANCE340R - Modern Dance Technique II
+DANCE342R - Special Topics in Dance
+DANCE350 - Dance Seminar
+DANCE355 - Dance Production and Technology
+DANCE356 - Philosophy and Technique of Teaching Dance
+DANCE357 - Teaching Child Dance and Studio Management
+DANCE358 - Teaching Techniques of Social Dance
+DANCE371R - Clog Dance Technique 2
+DANCE384R - International Standard Technique II
+DANCE385R - International Latin Technique II
+DANCE390R - Ballet Technique II
+DANCE396R - The Art of Yoga and Meditation
+DANCE399R - Research and Creative Practicum
+DANCE402 - History of Dance
+DANCE403 - Senior Capstone Project
+DANCE440R - Modern Dance Technique III
+DANCE442R - Choreographic Explorations
+DANCE443R - Advanced Technique and Somatics
+DANCE458R - Teach Technique of Social Dance, Advanced
+DANCE478R - Dance Alliance
+DANCE484R - Ballroom Technique 3
+DANCE488R - Collegiate Dancers
+DANCE495 - Dance Kinesiology II
+DANCE496R - Somatics
+DANCE498R - Internship
+DS150 - Data Intuition and Insight
+DS250 - Data Science Programming
+DS295R - Special Topics in Data Science
+DS350 - Data Wrangling and Visualization
+DS460 - Big Data Programming & Analytics
+DS498R - Internship
+DS499 - Senior Project in Data Science
+ECD350A - Early Childhood Development: Toddler Fundamental Principles
+ECD350B - Early Childhood Development: Toddler Applied Principles
+ECD350L - Early Childhood Development: Toddler Lab Experience
+ECD360A - Early Childhood Development: Preschool Fundamental Principles
+ECD360B - Early Childhood Development: Preschool Applied Principles
+ECD360L - Early Childhood Development: Preschool Lab Experience
+ECD370 - Early Childhood Development: Teaching Preschool
+ECD370L - Early Childhood Development: Teaching Preschool Lab
+ECD380 - Early Childhood Development: Program Management
+ECD380L - Teaching Early Childhood: Management Lab
+ECSE340 - Intervention with Infants
+ECSE395 - Early Childhood Curriculum
+ECSE421 - Family and Community Relationships
+ECSE425 - Strategies for ECSE
+ECON150 - Economic Principles and Problems-Micro
+ECON151 - Economic Principles and Problems-Macro
+ECON201 - Professional Exploration and Orientation
+ECON215 - Quantitative Methods
+ECON255 - Financial Analytics
+ECON278 - Statistics for Economists
+ECON298R - Beginning Internship
+ECON300 - Managerial Economics
+ECON330 - Economic Thought and History
+ECON353 - Money and Banking
+ECON355 - Investment Analysis
+ECON357 - Environmental and Natural Resource Economics
+ECON358 - International Economics
+ECON365 - Health Economics
+ECON380 - Intermediate Microeconomics
+ECON381 - Intermediate Macroeconomics
+ECON388 - Introduction to Econometrics
+ECON390R - Special Projects
+ECON398 - Professional Internship
+ECON440 - Law and Economics
+ECON450 - Development Economics
+ECON455 - Financial Economics
+ECON463 - Labor Economics
+ECON475 - Public Economics
+ECON476 - Industrial Organization
+ECON499 - Senior Capstone
+ED200 - Teaching as a Profession
+ED206 - Teaching and Learning Technologies
+ED210 - Introduction to Online Teaching
+ED211 - Technology for the 21st Century Classroom
+ED241 - Elementary Early Field Experience
+ED242 - Motivation and Management
+ED245 - Early Field Practicum
+ED246 - Elementary Education Motivation and Classroom Leadership
+ED304 - Educational Psychology and Human Development
+ED341 - Elementary Art Methods
+ED342 - Elementary Music Methods
+ED344 - Idaho Comprehensive Literacy #1
+ED345 - Idaho Comprehensive Literacy #2
+ED346 - Literacy Practicum
+ED346E - Elementary Literacy Practicum
+ED347 - Middle School Practicum
+ED348 - Health/PE Methods Elementary Teachers
+ED349 - ELED PE, Art, and Music Methods
+ED350 - Psycholinguistics of Reading
+ED361 - Principles of Teaching and Assessment
+ED405 - Elementary STEM Methods 1
+ED406 - STEM Methods 
+ED409R - Independent Readings & Projects
+ED420R - Online Endorsement Supervision
+ED441 - Language Arts Methods
+ED444 - Elementary Social Studies Methods
+ED448 - Assessment and Evaluation in Education
+ED449 - Elementary Senior Practicum
+ED454 - Reading Diagnosis & Intervention Seminar
+ED455 - Reading Diagnosis & Intervention Practicum
+ED461 - Content Area Reading and Writing
+ED492 - Student Teaching
+ECEN101 - Introduction to Electrical and Computer Engineering
+ECEN106 - Computer Systems
+ECEN150 - Electric Circuit Analysis I
+ECEN160 - Fundamentals of Digital Systems
+ECEN160L - Fundamentals of Digital Systems Lab
+ECEN240 - Fundamentals of Digital Systems
+ECEN250 - Electric Circuit Analysis II
+ECEN260 - Microprocessor Based-System Design
+ECEN324 - Computer Architecture
+ECEN340 - Digital Systems Design
+ECEN350 - Electronic Devices and Circuits
+ECEN351 - VLSI System Design
+ECEN361 - Embedded Systems
+ECEN380 - Signals and Systems
+ECEN390 - Electromagnetics
+ECEN397 - Professional Career Preparation
+ECEN398R - Internship
+ECEN410 - Power Systems
+ECEN420 - RF Circuits
+ECEN430 - Signal and Power Integrity
+ECEN440 - Data and Computer Communications
+ECEN451 - Semiconductor Process Engineer
+ECEN461 - Advanced Embedded Systems
+ECEN470 - Feedback Control of Dynamic Systems
+ECEN480 - Digital Signal Processing
+ECEN490R - Special Topics
+ECEN499 - Senior Project
+ENG100 - Reading Comprehension
+ENG102R - Reading Assist and Textbook Comprehension
+ENG106 - Basic Writing
+ENG106L - English Language and Basic Writing
+ENG107 - College Reading
+ENG108 - English Language Development - Oral
+ENG109 - English Language Development - Writing
+ENG150 - Writing and Reasoning Foundations
+ENG151 - Introduction to Literature
+ENG217 - Great Books of the World
+ENG218 - Creative Writing
+ENG251 - Fundamentals of Literary Interpretation
+ENG252 - Fundamentals of Research and Presentation
+ENG290R - Special Projects
+ENG301 - Advanced Writing and Research
+ENG314 - Advanced Research and Literary Analysis
+ENG316 - Advanced Writing and Technical Communication
+ENG318R - Advanced Creative Writing
+ENG321 - Technology for Professional Writers
+ENG325 - Language Theory - Grammar and Usage
+ENG326 - Editing
+ENG327 - History of English Language
+ENG328 - Rhetorical Theory and Application
+ENG329 - Writing Instruction Methods
+ENG329L - Writing Instruction Methods Lab
+ENG331 - British Literature-Medieval and Renaissance
+ENG332 - British Literature-18th Century & Romantic
+ENG333 - British Literature-Victorian and Modern
+ENG334 - American Literature - Colonial and Romantic
+ENG335 - American Literature - Realism and Modern
+ENG336 - British and American Literature
+ENG350R - Themes in Literature
+ENG351 - Fiction
+ENG352 - Poetry
+ENG353 - Drama
+ENG354 - Non-fiction
+ENG355 - Children's Literature
+ENG356 - Young Adult Literature
+ENG370R - Major Authors
+ENG373 - Shakespeare
+ENG390 - Preparation for Internships and Careers
+ENG397R - Practicum
+ENG398R - English Internship
+ENG400R - Genres of Professional Writing
+ENG418R - Creative Writing and Publishing
+ENG430 - Teaching English in Secondary Schools
+ENG430L - Teaching English in Secondary Schools Lab
+ENG440 - Studies in Literary Theory
+ENG450 - Rhetorical Studies
+ENG452 - Advanced Professional Writing
+ENG495 - Senior Writing Seminar
+EIL102R - Language Assistance for English Language Learners
+EIL170 - English International Language Listening
+EIL171 - English International Language Speaking
+EIL172 - English International Language Reading
+EIL173 - English International Language Writing
+FAML100 - The Family
+FAML110 - Marriage Skills
+FAML120 - Parenting Skills
+FAML150 - Introduction to Marriage & Family Studies
+FAML160 - Family Relations
+FAML200 - Preparation for Marriage
+FAML220 - Parenting
+FAML300 - Marriage
+FAML360 - Family Stress and Coping
+FAML390R - Special Topics in Family Studies
+FAML400 - Family Theories and Dynamics
+FAML420 - The Helping Relationship
+FAML430 - Family and Community Relationships
+FAML445 - Teaching Family Life Education
+FAML460 - Child and Family Advocacy
+FAML490R - Relationship Education Certification
+FAML498R - Internship
+FHGEN110 - Family History Research Student Success
+FHGEN120 - Internet and Computer Skills
+FHGEN130 - Paleography
+FHGEN241 - Introduction to Research Methodology
+FHGEN242 - Introduction to Evidence Analysis
+FHGEN340 - Genealogical Writing
+FHGEN351 - U.S. Geographic Specialization
+FHGEN352 - Introduction to Genetic Genealogy
+FHGEN411 - Research Methodology
+FHGEN499R - Directed Geographic Specialty Research
+FCS101 - Introduction to  Family and Consumer Sciences
+FCS110 - Food Safety and Sanitation
+FCS140 - Introduction to Interior Design
+FCS160 - Home and Family Resource Management
+FCS205 - Family and Consumer Sciences Practicum
+FCS207 - Apparel Construction I
+FCS208 - Introduction to Fashion Design
+FCS221 - Home Decor Design
+FCS235 - Children's Clothing Design
+FCS240 - Food Preparation
+FCS245 - Pattern Making
+FCS280 - History of Architecture & Interiors
+FCS290 - CAD Pattern Making
+FCS307 - Apparel Construction II
+FCS325 - Fashion History
+FCS340 - Money Management
+FCS345 - Fitting and Alteration
+FCS351 - Food Service Management
+FCS360 - Textile Science
+FCS364 - Science of Meal Management
+FCS370 - Quantity Food Production and Services
+FCS380 - Connect Education and Employment
+FCS400 - Curriculum Development in Occupational Education
+FCS405 - Teaching Methods for Family and Consumer Science
+FCS405L - FCS Teaching Practicum
+FCS490R - Special Studies in FCS
+FCS498R - Internship for FCSE Major
+FIN100 - Introduction to Finance, Operations and Analytics through Learning Games and Activities
+FIN201 - Introduction to Finance
+FIN301 - Financial Management
+FIN398R - Business Finance Internship
+FIN399R - Special Projects
+FIN401 - Advanced Financial Management
+FIN410 - Investments
+FIN411 - Advanced Financial Modeling
+FIN418 - Financial Planning
+FIN433 - Personal Finance
+FIN475 - Financing New Ventures
+FIN497A - Risk Management
+FIN497B - Estate Planning
+FS120 - Introduction to Food Science
+FS180 - Survey of Food Science
+FS220 - Food Laws and Regulations
+FS230 - Introduction to Food Preservation and Processing
+FS260 - Flavor and Menu Design
+FS330 - Food Processing
+FS340 - Applied Sensory Science
+FS350 - Food Chemistry
+FS360 - Food Microbiology
+FS435 - Dairy Processing
+FS440 - Food Engineering
+FS450 - Food Analysis
+FS490 - Product Development
+FS498R - Food Science Internship
+FS499R - Food Science Research
+FR101 - Beginning French I
+FR102 - Beginning French II
+FR201 - Intermediate French
+FR202 - Introduction-French Literature
+FR321 - Advanced Grammar and Composition
+FR377 - French Teaching Methods
+FR400 - French Civilization and Culture
+FR410 - Masterpieces of Francophone Literature
+FR490 - Independent Study in French
+GEINT211 - Global Hotspot: Pakistan
+GEINT212 - Latin American Focus: Chile and Cuba
+GEINT213 - Introduction to the Middle East
+GEINT215 - China: Past, Present, Future
+GESCI101 - From Atoms to Humans
+GESCI110 - Sustaining Human Life
+GESCI200 - Energy in the 21st Century
+GESCI201 - Natural Disasters
+GESCI203 - Environmental Stewardship
+GESCI204 - The American Epidemic
+GESCI205 - DNA: Genetic Identity, Disease and Design
+GESCI206 - Light and Sound
+GESCI208 - Introduction to Robotics
+GESCI210 - Neanderthals and Other Successes
+GE101 - Freshman Seminar
+GE102 - Academic and Personal Well-Being
+GE103 - Online University Skills
+GE105 - Study and Life Skills
+GECIV100 - American Heritage
+GECIV105 - Foundations of World History
+GECIV210 - Religious Freedom
+GS100 - Career and Self Discovery
+GS102R - Strategies for Academic Success
+GS103A - Concentration
+GS103B - Note Taking and Listening
+GS103C - Thinking Skills
+GS103D - Textbook Study
+GS103E - Time Management
+GS103F - Test Skills
+GS103K - Time Management and Concentration
+GS103L - Note Taking and Textbook Study
+GS103M - Critical Thinking and Test-Taking Skills
+GS104 - Devotional Class
+GS107 - Technology Basics
+GS108A - Student Instructor Training
+GS108B - Tutor Training: Reading
+GS108C - Tutor Training: Writing
+GS108D - Tutor Training: Math
+GS108E - Tutor Training: Study Skills
+GS109A - Instructor Mentor Training
+GS111 - Realize Vision
+GS120 - Pathway Life Skills
+GS120L - Pathway English & Life Skills
+GS170 - Career Development
+GS294 - Decision Making and Leadership
+GS497 - Professional Projects
+GEOG101 - Introduction Physical Geography
+GEOG101L - Physical Geography Lab
+GEOG110 - Geography for Elementary Education
+GEOG120 - Geography and World Affairs
+GEOG230 - Introduction to Geographic Information Systems
+GEOG240 - Remote Sensing and Imagery Analysis
+GEOG320 - Geography of North America
+GEOG321 - Geography of Developing Nations
+GEOG335 - GIS for Social Sciences
+GEOG340 - Advanced GIS and Spatial Analysis
+GEOG350 - Cultural Geography
+GEOG390 - Protected Landscapes
+GEOG391R - Geography Field Experience
+GEOG398R - Geography Internship
+GEOL100 - Exploring Geology
+GEOL109 - Introduction to Geology
+GEOL111 - Physical Geology
+GEOL111L - Physical Geology Lab
+GEOL112 - Historical Geology
+GEOL141 - Introduction to Web GIS and Location Analytics 
+GEOL230 - Oceanography and Meteorology
+GEOL230L - Oceanography and Meteorology Lab
+GEOL260 - Earth Science
+GEOL260L - Earth Science Lab
+GEOL290R - Directed Study
+GEOL301 - Geology Career Preparation
+GEOL311 - Structural Geology
+GEOL316 - Geowriting
+GEOL340 - Introduction to GIS and Spatial Analysis
+GEOL341 - Introduction to Mobile GIS
+GEOL351 - Earth Materials
+GEOL351L - Earth Materials Laboratory
+GEOL352 - Igneous and Metamorphic Petrology
+GEOL370 - Stratigraphy and Sedimentation
+GEOL380 - Regional Geology
+GEOL390R - Directed Study
+GEOL404 - Environmental Geology
+GEOL409 - Geoscience Field Methods
+GEOL410 - Advanced Field Methods
+GEOL411 - Geomorphology
+GEOL412 - Geology of North America
+GEOL420 - Geochemistry
+GEOL425 - Petroleum Geology
+GEOL435 - Groundwater Hydrology
+GEOL440R - Applied GIS and Remote Sensing
+GEOL445 - Applied Geophysics
+GEOL480 - Analytical Paleobiology
+GEOL490R - Research Methods
+GEOL498R - Geology Internship
+GER101 - Beginning German I
+GREEK101 - Ancient Greek I
+GREEK102 - Ancient Greek II
+GREEK201 - Ancient Greek 3
+GREEK211 - Readings in Ancient Greek
+HCA280 - Medical Terminology
+HCA285 -  Introduction to Healthcare Administration
+HCA290 - Healthcare Law and Ethics
+HCA340 - Managing Healthcare Provider Organizations
+HCA360 - Healthcare Systems
+HCA380 - Healthcare Strategy
+HCA395 - Healthcare Insurance Industry
+HCA445 - Healthcare Finance
+HCA455 - Healthcare Operations
+HCA490 - Healthcare Administration Capstone Course 
+HCA498R - Internship
+HEB101 - Biblical Hebrew I
+HEB102 - Biblical Hebrew II
+HIST104 - History Skills and Careers
+HIST115 - History and Civics for Elementary Education
+HIST120 - U.S. History to 1877
+HIST121 - U.S. History Since 1877
+HIST201 - World History to 1500
+HIST202 - Modern World History
+HIST206 - Introduction to Secondary Methods
+HIST247 - Middle School Practicum
+HIST290R - Independent Study
+HIST300 - Writing and Research in History
+HIST304 - Ancient Greece and Rome
+HIST306 - Medieval History
+HIST308 - Renaissance and Reformation
+HIST310 - Modern European History
+HIST311 - The Trojan War
+HIST312 - The Golden Age of Athens
+HIST313 - Roman Imperialism
+HIST314 - Augustus and the Principate
+HIST315 - Anglo-Saxon England
+HIST316 - The Crusades
+HIST317 - The Byzantine Empire
+HIST318 - The Medieval Papacy
+HIST319 - The Hundred Years War
+HIST320 - The Holocaust
+HIST325 - Middle East: Muhammad to 1800
+HIST326 - Modern Middle East
+HIST327 - The Islamic World
+HIST330 - The Far East
+HIST331 - South Asia
+HIST335 - Africa since 1400
+HIST341 - Colonial Latin American History
+HIST342 - Modern Latin American History
+HIST363 - The American West
+HIST370 - Early American History to 1800
+HIST372 - Civil War and Reconstruction
+HIST376 - U.S. Industrial Age 1870-1945
+HIST378 - United States History Since 1945
+HIST380 - U.S. Constitutional History and Law
+HIST381 - The History of Film in America
+HIST382 - U.S. Women's History
+HIST388 - History of American Immigration
+HIST390R - Special Topics in History
+HIST392 - History of Peace
+HIST393 - Environmental History of Protected Landscapes
+HIST394 - Public History
+HIST395 - History of Religions
+HIST406 - Secondary Methods
+HIST490 - Senior Thesis
+HIST498R - History Internship
+HORT224 - Introductory Plant Identification
+HORT230 - Introduction to Landscape Architecture and Design
+HORT235 - Floral Design
+HORT287R - Flower Center
+HORT297R - Practicum in Horticulture
+HORT311 - Introduction to Arboriculture
+HORT319 - Landscape Management
+HORT320 - Plant Propagation
+HORT322 - Woody Plant Identification
+HORT325 - Interiorscaping
+HORT328 - Wedding and Event Planning
+HORT331 - Landscape Water Conservation & Irrigation
+HORT334 - Greenhouse Operations
+HORT336 - Floral Cultural Design Influence
+HORT338R - Advanced Wedding and Event Planning
+HORT350R - Landscape Competition
+HORT351 - Horticulture Business and Bidding
+HORT375 - Floriculture Applications
+HORT430 - Advanced Landscape Design
+HORT435 - Advanced Floral Design
+HORT436 - Contemporary Floral Design
+HORT438R - Bridal Couture Floral Design
+HORT453 - Land Construction Material
+HORT455 - Nursery Management
+HORT460 - Cut Flower Crops
+HORT461 - Potted Plants
+HORT470 - Edible Landscaping
+HTMBC110 - Introduction to Hospitality and Tourism Management
+HTMBC130 - Teams and Hospitality
+HTMBC150 - Accommodations Operations
+HTMBC220 - Food and Beverage
+HTMBC240 - Hospitality and Tourism Financial Management
+HRHP359 - Introduction to Kinesiology and Biomechanics
+HRHP369 - Applied Kinesiology and Assessment
+HRHP415 - Biomechanics of Sport & Exercise
+HUM105 - Designing Your Life in the Humanities I
+HUM110 - Introduction to the Humanities
+HUM201 - Western Humanities I: Searching for Meaning in the Ancient & Medieval World
+HUM202 - Western Humanities II: Searching for Meaning in the Modern World
+HUM214 - Modern Arts and Propaganda
+HUM305 - Writing and Analysis in Humanities
+HUM310 - Critical Theory and Interpretation
+HUM312R - Readings in the Humanities 2
+HUM316 - American Humanities
+HUM340R - Non-Western Humanities
+HUM350R - Junior Seminar in the Humanities
+HUM376 - The Classical Heritage
+HUM385 - Travel Studies
+HUM398R - Internship
+HUM405 - Designing Your Life in the Humanities II
+HUM497R - Senior Seminar: Topics in Hum
+IDS101 - Introduction to Interdisciplinary Studies
+IDS290R - Special Topics
+IDS297R - Applied Learning Project
+IDS301 - Interdisciplinary Innovation
+IDS398R - Interdisciplinary Internship
+IDS499 - Interdisciplinary Capstone
+ID251 - Kitchen and Bath Design
+INTST100 - Introduction to International Studies
+INTST300 - Cultural Paradigms
+INTST341 - East Asia Culture
+INTST342 - Russian Culture
+INTST343 - Eastern Europe Culture
+INTST344 - Western Europe Culture
+INTST345 - Chinese Culture
+INTST347 - Southeast Asia Culture
+INTST348 - Middle Eastern Culture
+INTST349 - African Culture
+INTST350 - Latin American Culture
+INTST398R - Internship in International Studies
+INTST399R - International Studies Experience
+INTST490R - Independent Study International Studies
+INTST499 - Capstone in International Studies
+ISP200 - International Study Pre-departure
+LANG298 - Foreign Language Internship
+LANG321 - Advanced Grammar in Languages
+LANG400 - Civilization and Culture
+LANG410 - Language and Literary Traditions
+LATIN101 - Latin I
+LATIN102 - Latin II
+LATIN202 - Latin Reading and Comprehension
+LR111 - Research Skills
+MET231 - Manufacturing Processes I
+MET231L - Manufacturing Processes I Lab
+MET298R - Manufacturing Internship
+MET305 - Mechatronics and Measurement Systems I
+MET331 - Manufacturing Processes II
+MET332 - Computer Numerical Control (CNC)
+MET340 - Manufacturing Quality
+MET355 - Plastics Materials and Processing
+MET431 - Tool Design
+MET445 - Fundamentals of Composite Manufacturing
+MET465 - Manufacturing Automation
+MET490R - Special Topics in Manufacturing
+MKT100 - Careers in Marketing
+MKT120 - Sales & Customer Relations
+MKT241 - Marketing Management
+MKT250 - Web Business Creation
+MKT275 - Professional Selling
+MKT298R - Beginning Marketing Internship
+MKT301 - IBC Marketing
+MKT330 - Content Marketing
+MKT350 - Email Marketing
+MKT351 - Social Media Marketing
+MKT352 - Integrated Digital Marketing
+MKT355 - Search Engine Optimization
+MKT357 - Ecommerce Channel Management
+MKT358 - Advanced Google Ads
+MKT375 - Sales Management
+MKT376 - Sales Technologies
+MKT380 - Market Research and Web Analytics
+MKT398R - Advanced Marketing Internship
+MKT399R - Special Marketing Projects
+MKT420 - Marketing Analysis
+MKT430 - IMC Capstone Campaign
+MKT446 - Consumer Behavior 
+MKT452 - Digital Marketing Capstone
+MATH100A - Arithmetic
+MATH100B - Beginning Algebra
+MATH101 - Intermediate Algebra
+MATH108X - Math for the Real World
+MATH109 - Precalculus
+MATH110X - College Algebra
+MATH111 - Trigonometry
+MATH112X - Calculus I
+MATH113 - Calculus II
+MATH119 - Applied Calculus for Data Analysis
+MATH190 - Tutoring Mathematics
+MATH191 - Introduction to the Mathematical Sciences
+MATH205 - Mathematical Reasoning for Teachers: Number and Operation
+MATH206 - Mathematical Reasoning for Teachers: Geometry, Measurement, and Proportional Reasoning
+MATH214 - Multivariable and Vector Calculus
+MATH214E - Teaching Calculus
+MATH215 - Multivariable Calculus
+MATH221A - Business Statistics
+MATH221B - Biostatistics
+MATH221C - Social Science Statistics
+MATH221D - Introductory Statistics with R
+MATH241 - Fundamentals of Linear Algebra
+MATH275 - Mathematical Connections for Teachers
+MATH280 - Problem Solving
+MATH282 - Fundamentals of Mathematical Modeling
+MATH283 - Modeling with Probability
+MATH295R - Special Topics in Mathematics
+MATH301 - Introduction to Analysis
+MATH316 - Differential Equations with Linear Algebra
+MATH325 - Intermediate Statistics
+MATH326 - Experimental Design
+MATH330 - Engineering Statistics
+MATH340 - Discrete Mathematics
+MATH340L - Technical Writing Lab
+MATH341 - Linear Algebra
+MATH350 - Geometry
+MATH411 - Numerical Analysis I
+MATH412 - Numerical Analysis II
+MATH423 - Probability and Statistics
+MATH424 - Mathematical and Bayesian Statistics
+MATH425 - Applied Linear Regression
+MATH440 - Modern Algebra
+MATH441 - Abstract Algebra I
+MATH442 - Abstract Algebra II
+MATH443 - Linear Algebra II
+MATH450 - History of Mathematics
+MATH461 - Real Analysis I
+MATH462 - Real Analysis II
+MATH463 - Complex Analysis
+MATH472 - Introduction to Partial Differential Equations
+MATH488 - Statistical and Data Science Consulting
+MATH490 - Secondary Education Math Teaching Methods
+MATH491 - Mathematics Education Practicum Lab
+MATH494R - Topics in Statistics
+MATH495R - Topics in Mathematics
+MATH498R - Internship
+MATH499R - Senior Project in Mathematics
+ME101 - Introduction to Engineering and Technology
+ME142 - Engineering Computation I
+ME162 - Fundamentals in 2D CADD
+ME172 - Parametric Mechanical CAD
+ME201 - Engineering Mechanics: Statics
+ME202 - Strength of Materials
+ME204 - Engineering Mechanics: Dynamics
+ME250 - Materials Science
+ME250L - Materials Lab
+ME272 - Mechanical CADD and GD&T
+ME280 - ME Design I: Mechanical Design
+ME298 - Technical Internship
+ME299 - Student Mentorship
+ME305 - Mechatronics and Measurement Systems I
+ME310 - Mechatronics and Measurement Systems II
+ME322 - Thermodynamics I
+ME337 - Kinematics
+ME342 - Engineering Computation II
+ME360 - Fluid Mechanics
+ME370 - Machine Design
+ME380 - ME Design II: Product Design
+ME398R - Engineering Internship
+ME410 - Autonomous Control of Dynamic Systems
+ME422 - Thermodynamics II
+ME423 - Heat Transfer
+ME425 - Computational Fluid Dynamics
+ME438 - CAE Modeling and Digital Simulation
+ME445 - Mechanics of Composite Materials
+ME455 - Experimental Design & Analysis
+ME460 - Fundamentals of Finite Element Analysis
+ME470 - Advanced Mechatronics
+ME480 - Mechanical Engineering Design III: Capstone Design
+ME490 - Special Problems in Mechanical Engineering
+ME495R - Special Topics in Mechanical Engineering
+MS101 - Leadership/Personal Development
+MS102 - Foundations in Leadership
+MS201 - Applied Tactical Leadership
+MS202 - Innovative Tactical Leadership
+MS290 - ROTC Leaders Training Course
+MS297 - Basic Training
+MS301 - Adaptive Team Leadership
+MS302 - Leadership-Changing Environments
+MS303 - Military Science Practicum
+MS350 - U.S. Military History
+MS380 - ROTC Nurse Summer Training Program
+MS401 - Developing Adaptive Leaders
+MS402 - Leadership in a Complex World
+MS497R - Directed Study/Projects
+MUSIC101 - Music and the Humanities
+MUSIC102 - Music in Western Civilization
+MUSIC104 - Group Vocal Instruction
+MUSIC105 - Class Piano Instruction Level I
+MUSIC106 - Group Organ Instruction
+MUSIC107 - Class Piano Instruction Level II
+MUSIC109 - Group Guitar Instruction Level I
+MUSIC113 - Group Guitar Instruction Level II
+MUSIC115 - Jazz in the Humanities
+MUSIC130 - Practical Musicianship
+MUSIC155 - Introduction to Vocal Methods
+MUSIC156 - Basic Piano
+MUSIC158 - Supplemental Music Lessons
+MUSIC158A - Piano Lessons
+MUSIC158B - Organ Lessons
+MUSIC158C - Harp Lessons
+MUSIC158D - Voice Lessons
+MUSIC158E - Violin Lessons
+MUSIC158F - Viola Lessons
+MUSIC158G - Cello Lessons
+MUSIC158H - String Bass Lessons
+MUSIC158I - Classical Guitar Lessons
+MUSIC158J - Flute Lessons
+MUSIC158K - Oboe Lessons
+MUSIC158L - Bassoon Lessons
+MUSIC158M - Clarinet Lessons
+MUSIC158N - Saxophone Lessons
+MUSIC158O - Trumpet Lessons
+MUSIC158P - French Horn Lessons
+MUSIC158Q - Music Lessons - Trombone
+MUSIC158R - Euphonium Lessons
+MUSIC158S - Tuba Lessons
+MUSIC158T - Percussion
+MUSIC158U - Conducting Lessons
+MUSIC158V - Composition Lessons
+MUSIC158X - Jazz Guitar Lessons
+MUSIC158Z - Jazz Piano Lessons
+MUSIC160A - Piano Lessons - I
+MUSIC160B - Organ Lessons - I
+MUSIC160C - Harp Lessons - I
+MUSIC160E - Violin Lessons - I
+MUSIC160F - Viola Lessons - I
+MUSIC160G - Cello Lessons - I
+MUSIC160H - String Bass Lessons - I
+MUSIC160I - Classical Guitar Lessons - I
+MUSIC160J - Flute Lessons - I
+MUSIC160K - Oboe Lessons - I
+MUSIC160L - Bassoon Lessons - I
+MUSIC160M - Clarinet  Lessons - I
+MUSIC160N - Saxophone Lessons - I
+MUSIC160O - Trumpet Lessons - I
+MUSIC160P - French Horn Lessons - I
+MUSIC160Q - Trombone Lessons - I
+MUSIC160R - Euphonium Lessons - I
+MUSIC160S - Tuba Lessons - I
+MUSIC160T - Percussion Lessons - I
+MUSIC160Z - Jazz Piano Lessons - I
+MUSIC161A - Piano Lessons - II
+MUSIC161B - Organ Lessons - II
+MUSIC161C - Harp Lessons - II
+MUSIC161D - Voice Lessons - II
+MUSIC161E - Violin Lessons - II
+MUSIC161F - Viola Lessons - II
+MUSIC161G - Cello Lessons - II
+MUSIC161H - String Bass Lessons - II
+MUSIC161I - Classical Guitar Lessons - II
+MUSIC161J - Flute Lessons - II
+MUSIC161K - Oboe Lessons - II
+MUSIC161L - Bassoon Lessons - II
+MUSIC161M - Clarinet Lessons - II
+MUSIC161N - Saxophone Lessons - II
+MUSIC161O - Trumpet lessons - II
+MUSIC161P - French Horn Lessons - II
+MUSIC161Q - Trombone Lessons - II
+MUSIC161R - Euphonium Lessons - II
+MUSIC161S - Tuba Lessons - II
+MUSIC161T - Percussion Lessons - II
+MUSIC161Z - Jazz Piano Lessons - II
+MUSIC165A - Diction for Singers I
+MUSIC165B - Diction for Singers II
+MUSIC172 - Musicianship 1
+MUSIC173 - Musicianship 2
+MUSIC185 - LDS Hymns and Doctrine
+MUSIC190 - Basic Music Theory
+MUSIC209 - Music Technology
+MUSIC212 - Musicianship 3
+MUSIC213 - Musicianship 4
+MUSIC240 - Hymns and Service Music
+MUSIC246A - Jazz Improvisation I
+MUSIC246B - Jazz Improvisation II
+MUSIC256 - Piano Skills
+MUSIC260A - Piano Lessons - III
+MUSIC260B - Organ Lessons - III
+MUSIC260C - Harp Lessons - III
+MUSIC260D - Voice Lessons - III
+MUSIC260E - Violin Lessons - III
+MUSIC260F - Viola Lessons - III
+MUSIC260G - Cello lessons - III
+MUSIC260H - String Bass Lessons - III
+MUSIC260I - Classical Guitar Lessons - III
+MUSIC260J - Flute Lessons - III
+MUSIC260K - Oboe Lessons - III
+MUSIC260L - Bassoon Lessons - III
+MUSIC260M - Clarinet Lessons - III
+MUSIC260N - Saxophone Lessons - III
+MUSIC260O - Trumpet Lessons - III
+MUSIC260P - French Horn Lessons - III
+MUSIC260Q - Trombone lessons - III
+MUSIC260R - Euphonium Lessons - III
+MUSIC260S - Tuba Lessons - III
+MUSIC260T - Percussion Lessons - III
+MUSIC260Z - Jazz Piano Lessons - III
+MUSIC261A - Piano IV Lessons
+MUSIC261B - Organ IV Lessons
+MUSIC261C - Harp IV Lessons
+MUSIC261D - Voice IV Lessons
+MUSIC261E - Violin Lessons -  IV
+MUSIC261F - Viola Lessons - IV
+MUSIC261G - Cello IV Lessons
+MUSIC261H - String Bass Lessons - IV
+MUSIC261I - Classical Guitar Lessons - IV
+MUSIC261J - Flute Lessons - IV
+MUSIC261K - Oboe Lessons - IV
+MUSIC261L - Bassoon Lessons - IV
+MUSIC261M - Clarinet Lessons - IV
+MUSIC261N - Saxophone Lessons - IV
+MUSIC261O - Trumpet IV Lessons
+MUSIC261P - French Horn Lessons - IV
+MUSIC261Q - Trombone Lessons - IV
+MUSIC261R - Euphonium IV Lessons
+MUSIC261S - Tuba Lessons - IV
+MUSIC261T - Percussion Lessons - IV
+MUSIC261Z - Jazz Piano Lessons - IV
+MUSIC265 - Piano Teaching I
+MUSIC270 - Elementary Methods for Music Majors
+MUSIC290 - Special Topics
+MUSIC291 - Keyboard Harmony
+MUSIC299 - Basic Audio Engineering
+MUSIC300 - Pro Tools Fundamentals I and II
+MUSIC301 - Music Literature I - Middle Ages
+MUSIC302 - Music Literature II - Classic/Romantic
+MUSIC303 - Music Literature III - 20th Century/World
+MUSIC305 - Jazz History
+MUSIC306 - Form and Analysis
+MUSIC307 - Pro Tools Production I and II (Music)
+MUSIC308 - Basic Conducting
+MUSIC309 - Instrumental Conducting
+MUSIC310 - Choral Conducting
+MUSIC312M - Men's Chorus
+MUSIC312W - University Choir- Women
+MUSIC313 - Women's Chorus
+MUSIC314 - Concert Choir
+MUSIC315 - University Choir Men
+MUSIC316 - University Choir Women
+MUSIC317 - Opera Workshop
+MUSIC318 - Vocal Union
+MUSIC319 - Collegiate Singers
+MUSIC324 - Jazz Combo
+MUSIC325 - RixStix Percussion/Handbell/SteelBand
+MUSIC327 - RixStix Drumline
+MUSIC328 - Jazz Ensemble 2
+MUSIC329 - University Band
+MUSIC330 - Jazz Ensemble 1
+MUSIC331 - Symphony Band
+MUSIC339 - Baroque Ensemble
+MUSIC340 - University Orchestra
+MUSIC341 - String Chamber - Sinfonietta
+MUSIC342A - Symphony Orchestra Strings
+MUSIC342B - Symphony Orchestra Winds
+MUSIC343A - Chamber Woodwinds
+MUSIC343B - Chamber Brass
+MUSIC344 - Bluegrass Ensemble
+MUSIC345 - Harp Ensemble
+MUSIC346 - Flute Ensemble
+MUSIC348 - Saxophone Ensemble
+MUSIC360A - Piano Lessons - V
+MUSIC360B - Organ Lessons - V
+MUSIC360C - Harp Lessons - V
+MUSIC360D - Voice Lessons - V
+MUSIC360E - Violin Lessons -  V
+MUSIC360F - Viola Lessons - V
+MUSIC360G - Cello Lessons - V
+MUSIC360H - String Bass Lessons - V
+MUSIC360J - Flute Lessons - V
+MUSIC360K - Oboe Lessons - V
+MUSIC360L - Bassoon Lessons - V
+MUSIC360M - Clarinet Lessons - V
+MUSIC360N - Saxophone Lessons - V
+MUSIC360O - Trumpet Lessons - V
+MUSIC360P - French Horn Lessons - V
+MUSIC360Q - Trombone Lessons - V
+MUSIC360R - Euphonium Lessons - V
+MUSIC360S - Tuba Lessons - V
+MUSIC360T - Percussion Lessons - V
+MUSIC360V - Composition 1
+MUSIC360Z - Jazz Piano Lessons - V
+MUSIC361A - Piano Lessons -  VI
+MUSIC361B - Organ Lessons -  VI
+MUSIC361C - Harp Lessons-VI
+MUSIC361D - Voice Lessons - VI
+MUSIC361E - Violin Lessons - VI
+MUSIC361F - Viola Lessons - VI
+MUSIC361G - Cello Lessons - VI
+MUSIC361H - String Bass Lessons -  VI
+MUSIC361J - Flute Lessons -  VI
+MUSIC361K - Oboe Lessons -  VI
+MUSIC361L - Bassoon Lessons -  VI
+MUSIC361M - Clarinet Lessons -  VI
+MUSIC361N - Saxophone Lessons -  VI
+MUSIC361O - Trumpet Lessons -  VI
+MUSIC361P - French Horn Lessons -  VI
+MUSIC361Q - Trombone Lessons -  VI
+MUSIC361R - Euphonium  Lessons - VI
+MUSIC361S - Tuba Lessons -  VI
+MUSIC361T - Percussion Lessons -  VI
+MUSIC361V - Composition 2
+MUSIC361Z - Jazz Piano Lessons -  VI
+MUSIC362 - Collaborative Piano
+MUSIC363A - Piano Teaching 2A
+MUSIC363B - Piano Teaching 2B
+MUSIC364 - String Literature
+MUSIC365A - Piano Junior Recital 
+MUSIC365B - Organ Junior Recital
+MUSIC365C - Harp Junior Recital 
+MUSIC365D - Voice Junior Recital 
+MUSIC365E - Violin Junior Recital 
+MUSIC365F - Viola Junior Recital
+MUSIC365G - Cello Junior Recital
+MUSIC365H - String Bass Junior Recital
+MUSIC365J - Flute Junior Recital
+MUSIC365K - Oboe Junior Recital
+MUSIC365L - Bassoon Junior Recital 
+MUSIC365M - Clarinet Junior Recital 
+MUSIC365N - Saxophone Junior Recital
+MUSIC365O - Trumpet Junior Recital
+MUSIC365P - French Horn Junior Recital
+MUSIC365Q - Trombone Junior Recital
+MUSIC365R - Euphonium Junior Recital
+MUSIC365S - Tuba Junior Recital
+MUSIC365T - Percussion Junior Recital
+MUSIC365Z - Jazz Piano Junior Recital
+MUSIC366 - String Pedagogy
+MUSIC367 - Introduction to Music Education Practicum
+MUSIC371 - Choral/Vocal Secondary Methods
+MUSIC372 - Woodwind Methods
+MUSIC373 - Brass Methods
+MUSIC374A - Percussion Methods
+MUSIC374C - Percussion Methods for Strings
+MUSIC375 - String Methods
+MUSIC377A - String Practicum A
+MUSIC377B - String Practicum B
+MUSIC380 - Marching Band Methods
+MUSIC381 - Jazz Methods
+MUSIC383A - Choral Practicum A
+MUSIC383B - Choral Practicum B
+MUSIC385A - Band Practicum A
+MUSIC385B - Band Practicum B
+MUSIC387 - Scoring and Arranging
+MUSIC388 - Improvisation for Organists
+MUSIC398 - Internship
+MUSIC401 - Jazz Composition and Arranging
+MUSIC402 - Harp Literature
+MUSIC404 - Vocal Literature
+MUSIC406 - Brass Literature
+MUSIC407 - Woodwind Literature
+MUSIC409 - Italian for Singers
+MUSIC410 - German for Singers
+MUSIC440 - Voice Studio Experience
+MUSIC441A - String Studio Experience I
+MUSIC441B - String Studio Experience II
+MUSIC460A - Piano Lessons - VII
+MUSIC460B - Organ  Lessons - VII
+MUSIC460C - Harp Lessons - VII
+MUSIC460D - Voice Lessons - VII
+MUSIC460E - Violin Lessons - VII
+MUSIC460F - Viola Lessons - VII
+MUSIC460G - Cello Lessons - VII
+MUSIC460H - String Bass Lessons - VII
+MUSIC460J - Flute Lessons - VII
+MUSIC460K - Oboe Lessons - VII
+MUSIC460L - Bassoon Lessons - VII
+MUSIC460M - Clarinet Lessons - VII
+MUSIC460N - Saxophone Lessons - VII
+MUSIC460O - Trumpet Lessons - VII
+MUSIC460P - French Horn Lessons - VII
+MUSIC460Q - Trombone Lessons - VII
+MUSIC460R - Euphonium Lessons - VII
+MUSIC460S - Tuba Lessons - VII
+MUSIC460T - Percussion Lessons - VII
+MUSIC460V - Composition 3
+MUSIC460Z - Jazz Piano Lessons - VII 
+MUSIC462A - Piano Senior Recital 
+MUSIC462B - Organ Senior Recital 
+MUSIC462C - Harp Senior Recital 
+MUSIC462D - Voice Senior Recital 
+MUSIC462E - Violin Senior Recital 
+MUSIC462F - Viola Senior Recital 
+MUSIC462G - Cello Senior Recital 
+MUSIC462H - String Bass Senior Recital 
+MUSIC462J - Flute Senior Recital 
+MUSIC462K - Oboe Senior Recital
+MUSIC462L - Bassoon Senior Recital 
+MUSIC462M - Clarinet Senior Recital 
+MUSIC462N - Saxophone Senior Recital
+MUSIC462O - Trumpet Senior Recital 
+MUSIC462P - French Horn Senior Recital
+MUSIC462Q - Trombone Senior Recital 
+MUSIC462R - Euphonium Senior Recital 
+MUSIC462S - Tuba Senior Recital 
+MUSIC462T - Percussion Senior Recital 
+MUSIC462V - Composition Senior Recital
+MUSIC462Z - Jazz Piano Senior Recital 
+MUSIC463 - Harp Pedagogy
+MUSIC464 - Organ Literature and Pedagogy I
+MUSIC465A - Piano Literature A
+MUSIC465B - Piano Literature B
+MUSIC466 - Vocal Pedagogy
+MUSIC468 - Brass Pedagogy
+MUSIC469 - Woodwind Pedagogy
+MUSIC470 - Percussion Pedagogy
+MUSIC474 - Organ Literature and Pedagogy II
+MUSIC487 - Teaching Strategies
+MUSIC490 - Directed Studies
+MUSIC491 - Piano Teaching 3
+NURS105 - Introduction to Nursing
+NURS310 - Fundamentals of Nursing (BSN)
+NURS310C - Fundamentals of Nursing Clinical
+NURS316 - Professional Seminar (RN to BSN)
+NURS320 - Physical Assessment (BSN)
+NURS320C - Physical Assessment Clinical (BSN)
+NURS322 - Adult Health I (BSN)
+NURS322C - Adult Health I and Clinical (BSN)
+NURS323 - Mental Health Nursing (BSN)
+NURS323C - Mental Health Nursing Clinical (BSN)
+NURS338 - Nursing Research (RN to BSN)
+NURS340 - Health and Wellness in Aging Adult (RN to BSN)
+NURS400 - Advanced Nursing Concepts (RN-BSN)
+NURS410 - Maternal Child Nursing (BSN)
+NURS410C - Maternal Child Nursing Clinical (BSN)
+NURS420 - Evidence Based Practice (BSN)
+NURS422 - Adult Health II (BSN)
+NURS422C - Adult Health II Clinical (BSN)
+NURS433 - Population Health Nursing (BSN)
+NURS433C - Population Health Nursing Clinical (BSN)
+NURS449 - Community Nursing (RN-BSN)
+NURS450 - Nursing Leadership (RN-BSN)
+NURS490 - Nursing Capstone (BSN)
+NURS490C - Nursing Capstone Clinical
+NURS491 - Advanced Cardiac Life Support
+NURSF110 - Pregnancy
+NUTR112 - Nutrition and Young Children
+NUTR120 - Introduction to Dietetics
+NUTR150 - Essentials of Human Nutrition
+NUTR200 - Nutrient Metabolism
+NUTR330 - Nutrition in the Life Cycle
+NUTR350 - Sports Nutrition
+NUTR400 - Nutritional Biochemistry
+OSH310 - Environmental Health
+OSH384 - Industrial Fire Safety
+OSH450 - Environmental Sanitation and Water Quality Management
+OSH484 - Accident Investigation and Prevention
+OSH485 - Toxicology
+OSH486 - Occupational Safety and Risk Management
+OSH487 - Introduction to Industrial Hygiene
+OSH488 - Hazardous Materials Management
+OSH498R - Internship
+PEACE101 - Conflict and Peace
+PEACE450 - Conflict Transformation and Peacebuilding
+PHIL110 - Philosophical Thought
+PHIL201 - Ancient & Medieval Philosophy
+PHIL202 - Modern Philosophy
+PHIL205 - Logic and Critical Thinking
+PHIL305 - Symbolic Logic
+PHIL313 - Ethics
+PHIL314 - History & Philosophy of Science
+PHIL315 - Philosophy of Religion
+PHIL497R - Topics in Philosophy
+PTA100 - Introduction to PTA
+PTA105 - Therapeutic Procedures I
+PTA198 - Clinical Externship I
+PTA205 - Therapeutic Procedures 2
+PTA210 - Clinical Pathology
+PTA215 - Therapeutic Exercise
+PTA220 - Principles of Rehabilitation
+PTA221 - Pediatrics for the Physical Therapist Assistant
+PTA298 - Clinical Externship II
+PTA299 - Seminar
+PTA369 - Clinical Kinesiology
+PTA369L - Clinical Kinesiology Lab
+PH101 - Fundamentals of Physics
+PH105 - Introductory Applied Physics I
+PH106 - Introductory Applied Physics II
+PH117 - Descriptive Acoustics
+PH121 - Principles of Physics I
+PH123 - Principles of Physics II
+PH127 - Introduction to Astronomy
+PH135 - Physics Career Exploration and Preparation
+PH150 - Beginning Physics Lab
+PH205 - Physics by Inquiry 
+PH220 - Principles of Physics III
+PH223 - Engineering Physics
+PH228 - Physics Career Development
+PH250 - Intermediate Physics Lab
+PH277 - Contemporary Issues in Astronomy
+PH279 - Modern Physics
+PH290R - Special Problems in Physics
+PH295 - Mathematical and Computational Physics
+PH314 - History and Philosophy of Science
+PH323 - Solid State Physics
+PH324 - Nuclear and Particle Physics
+PH332 - Classical Mechanics
+PH333 - Electricity and Magnetism
+PH336 - Advanced Physics Lab
+PH374 - Astrophysics
+PH375 - Principles of Optics
+PH385 - Numerical Modeling in Physics
+PH390R - Special Topics in Physics
+PH398R - Physics Internship
+PH406 - Physics Senior Research
+PH412 - Thermal and Statistical Physics
+PH433 - Quantum Mechanics
+PH473 - Atomic Physics
+PH488 - Senior Thesis
+POLSC110 - American Government
+POLSC150 - Introduction to Comparative Politics
+POLSC170 - International Politics
+POLSC200 - Research Methods
+POLSC311 - State and Local Government
+POLSC314 - The Executive Branch
+POLSC315 - The Legislative Branch
+POLSC316 - The Judicial Branch
+POLSC320 - Political Parties and Interest Groups
+POLSC330 - Introduction to Public Administration
+POLSC331 - Principles of Public Administration
+POLSC335 - Introduction to Public Policy
+POLSC340 - Public Policy and Administrative Theory
+POLSC345 - Policy Analysis and Program Evaluation
+POLSC350 - Ancient Political Theory
+POLSC360 - Modern Political Theory
+POLSC372 - Advanced Theory of International Relations
+POLSC375 - International Law and Organization
+POLSC377 - Comparative Politics of the Global South
+POLSC378 - Comparative Politics of the Global North
+POLSC380 - U.S. Constitutional History and Law
+POLSC390 - American Foreign Policy
+POLSC392 - Terrorism and National Security
+POLSC394 - International Political Economy
+POLSC497R - Senior Seminar
+POLSC498R - Political Science Internship
+PSYCH111 - General Psychology
+PSYCH112 - Career Development in Psychology
+PSYCH201 - Developmental Psychology Lifespan
+PSYCH302 - Research Methods
+PSYCH310 - Cultural Psychology
+PSYCH311 - History and Systems of Psychology
+PSYCH322 - Adult Development
+PSYCH341 - Personality
+PSYCH342 - Abnormal Psychology
+PSYCH350 - Social Psychology
+PSYCH361 - Principles of Behavioral Learning
+PSYCH363 - Behavioral Interventions
+PSYCH365 - Psychology of Emotion and Motivation
+PSYCH370 - Sensation and Perception
+PSYCH376 - Cognition
+PSYCH378 - Psychological Assessment
+PSYCH380 - Performance Psychology
+PSYCH384 - Behavioral Neurobiology
+PSYCH390R - Special Topics in Psychology
+PSYCH395R - Directed Study
+PSYCH435 - Health Psychology
+PSYCH445 - Industrial Organizational Psychology
+PSYCH485 - Experiencing Research
+PSYCH498 - Internship
+PUBH132 - Personal Health and Wellness
+PUBH223 - Wilderness First Aid
+PUBH240 - Introduction to Public Health
+PUBH320 - Communicable and Non-Communicable Diseases
+PUBH354 - Health Disparities
+PUBH370 - Epidemiology
+PUBH381 - Program Evaluation
+PUBH390 - Program Planning/Implementation
+PUBH391 - Research Methods
+PUBH401 - Community Health Methods
+PUBH420 - Health Behavior Theories and Models
+PUBH440 - Emergency Management
+PUBH460 - Drugs of Use and Abuse
+PUBH472 - Health Communications
+PUBH480 - International Health
+PUBH498R - Internship
+PUBH499R - Health Science Practicum
+RM100 - Rec Management Orientation
+RM123 - Basic Skills
+RM200 - Leadership
+RM220 - Outdoor Activity Program Leadership 
+RM223B - Backpacking
+RM223C - Traditional Camping
+RM223D - Survival
+RM223E - Mountain Biking
+RM223F - Rock Climbing
+RM223G - Mountaineering
+RM223K - Outdoor Cooking
+RM223L - Canyoneering
+RM224A - Fly Tying
+RM224C - Canoeing
+RM225A - Cross Country
+RM225B - Winter Camping
+RM225C - Backcountry Skiing
+RM301 - Family Recreation
+RM304 - Leisure in Society
+RM307 - Inclusion & Disabilities in Therapeutic Recreation
+RM320 - Program and Event Management
+RM320L - Program and Event Management Lab
+RM340 - Commercial Recreation
+RM342 - Environmental Interpretation
+RM343 - Experiential Education
+RM366 - Adaptive Recreation Skills
+RM366L - Adaptive Recreation Skills Lab
+RM370 - Therapeutic Recreation: Introduction
+RM371 - Therapeutic Recreation: Evidence Practice
+RM373R - Applied Therapeutic Recreation
+RM423 - Resource Management
+RM471 - Therapeutic Recreation: Assessment and Evaluation
+RM472 - Therapeutic Recreation: Program Dynamic
+RM473 - Therapeutic Recreation: Advancement of the Profession
+RM483 - Venue Management in Recreation
+RM486 - Managing Risk in Recreation
+RM487 - Research and Evaluation
+RM498A - Recreation Management Senior Internship
+RM498B - Therapeutic Recreation Senior Internship
+RM499R - Research and Leadership Seminar
+REL100 - Introduction to The Church of Jesus Christ of Latter-day Saints
+REL121 - Book of Mormon
+REL122 - Book of Mormon
+REL130 - Missionary Preparation
+REL200C - The Eternal Family
+REL211 - New Testament
+REL212 - New Testament
+REL215 - Scripture Study
+REL225C - Foundations of the Restoration
+REL234 - Preparing for Eternal Marriage
+REL235 - Building an Eternal Marriage
+REL250C - Jesus Christ and His Everlasting Gospel
+REL261 - Introduction to Family History
+REL275C - The Teachings and Doctrine  of the Book of Mormon
+REL301 - Old Testament
+REL302 - Old Testament
+REL324 - Doctrine and Covenants
+REL325 - Doctrine and Covenants
+REL327 - Pearl of Great Price
+REL333 - Teachings of the Living Prophets
+REL341 - Church History
+REL342 - Church History
+REL343 - Church History
+REL345 - Presidents of the Church
+REL351 - World Religions
+REL352 - Christian History
+REL390R - Special Topics in Religion
+REL397 - Religious Research
+REL404 - Writings of Isaiah
+REL471 - Methods of Teaching Seminary
+REL475 - Seminary Teaching Seminar
+RUSS101 - Beginning Russian I
+RUSS102 - Beginning Russian II
+RUSS201 - Intermediate Russian I
+RUSS202 - Intermediate Russian II
+RUSS301 - Advanced Russian I
+RUSS302 - Advanced Russian II
+RUSS340 - Russian Literature - Translation
+RUSS342 - Russian Culture
+RUSS377 - Russian Teaching Methods
+RUSS490R - Independent Study in Russian
+SCIED259 - Integrated Science
+SCIED305 - Science Teaching Principles
+SCIED405 - Science Teaching Methods
+SCIED410 - Middle School Science Teaching Methods
+SMMBC105 - Introduction to Social Media Marketing
+SMMBC120 - Social Media Marketing Strategy
+SMMBC130 - Social Media Marketing Content
+SMMBC150 - Social Media Marketing Analytics
+SMMBC160 - Social Media Marketing Advocacy and Advertising
+SW260 - Introduction to Social Work
+SW311 - Family Interaction
+SW340 - Social Work Research Methods
+SW362 - Social Work Practice I - Individuals
+SW364 - Social Work Practice II - Groups
+SW365 - Social Work Practice III - Community
+SW367 - Human Behavior in Social Environment
+SW397 - Internship Seminar I
+SW398 - Internship I
+SW400 - Social Work Values and Ethics
+SW463 - Child Welfare Services
+SW464 - Intervention Diverse Clients
+SW465 - Social Work in Community Mental Health
+SW466 - Social Welfare Policy
+SW490R - Special Topics
+SW497 - Internship Seminar II
+SW498 - Internship II
+SOC111 - Introduction to Sociology
+SOC230 - Sociological Explorations
+SOC255 - Media, Self and Society
+SOC295R - Student Special Topics
+SOC300 - Sociological Theory
+SOC311 - Sociology of the Family
+SOC323 - Race and Ethnic Relations
+SOC340 - Research Methods
+SOC360 - Sociology of Religion
+SOC370 - Social Stratification
+SOC383 - Crime and Delinquency
+SOC395R - Direct Study
+SOC400 - Sociological Analysis
+SOC411 - Global Conflicts and Terrorism
+SOC450 - Protest, Conflict, & Social Change
+SOC462 - Sociology of Health
+SOC490R - Special Topics in Sociology
+SOC495 - Senior Thesis
+SOC498R - Senior Internship in Sociology
+SPED300 - Assistive Technology
+SPED310 - Exceptional Students: P-Grade 6
+SPED360 - Diverse and Exceptional Students
+SPED380 - Legal Issues
+SPED381 - Evidence-Based Practices
+SPED391 - Teaching Reading and Language Arts to Students with Disabilities
+SPED392 - Teaching Math to Students with Disabilities
+SPED393 - Social Behavior Strategies for Students with Disabilities
+SPED400 - Practicum- Elementary Education
+SPED410 - Transition Curriculum and Secondary Practicum
+SPED422 - Emotional and Behavioral Disorders
+SPED423 - Autism Spectrum Disorders
+SPED424 - Assessment and Evaluation
+SPED435 - Senior Practicum
+SPED441 - Students with Severe Disabilities
+SPED460 - Practicum- Secondary Education
+SCM361 - Operations Management 
+SCM398R - Business Supply Chain Internship
+SCM399R - Special Topics in Operations Management
+SCM461 - Advanced Topics in Operations Management
+SCM466 - Global Sourcing
+SCM468 - Logistics Management
+SCM478 - Operations Analysis and Modeling
+TESOL101 - Introduction to TESOL
+TESOL102 - TESOL Pedagogy I
+TESOL103 - TESOL Pedagogy II
+TESOL104 - English Grammar for TESOL
+TESOL105 - TESOL Practice
+TESOL200 - Fundamentals of TESOL
+TESOL213 - Culture and Diversity Practicum
+TESOL377 - TESOL Teaching Methods I
+TESOL378 - TESOL Teaching Methods II
+TESOL497 - TESOL Teaching Practicum
+TA105 - Career & Orientation
+TA115 - Introduction to Theatre
+TA116 - Dramatic Structure and Analysis
+TA117 - Introduction-Film Art & Analysis
+TA119 - Introduction to Technical Theatre
+TA121 - Voice Diction
+TA123M - Acting I
+TA123W - Acting I
+TA126 - Stage Makeup
+TA160 - Technical Theatre Practicum
+TA217 - Theatre Design Fundamentals
+TA223M - Acting II
+TA223W - Acting II
+TA225 - Stage Dialects
+TA233 - Movement for Theatre
+TA250R - Improvisational Theatre Ensemble
+TA260R - Theatre Practicum I
+TA315 - Theatre Sound Design
+TA316 - Theatre Properties
+TA318R - Scene Painting
+TA319 - Scene Design
+TA320 - Stage Lighting
+TA321R - Readers Theatre
+TA322 - Interpretation and Storytelling
+TA323 - Acting III
+TA335 - Song Interpretation
+TA352R - Children's Theatre
+TA360R - Theatre Practicum II
+TA362 - Theatrical Costume Design
+TA365 - Fashion History
+TA374 - Theatre/Stage Management
+TA390R - Special Studies in Theatre
+TA395 - Travel Study
+TA398 - Internship
+TA399 - Capstone Seminar
+TA401 - Theatre History I
+TA402 - Theatre History II
+TA405 - Theatre Methods
+TA424 - Directing I
+TA425 - Directing II
+TA460R - Theatre Practicum III
+TA499 - Senior Capstone
+WDD130 - Web Fundamentals
+WDD230 - Web Frontend Development I
+WDD330 - Web Frontend Development II
+WDD331R - Advanced CSS
+WDD398 - Internship
+WDD430 - Web Full-Stack Development
+WDD499 - Capstone
+WELD100 - Introduction to Welding
+WELD170 - Welding Science and Allied Processes
+WELD224 - Welding Engineering I
+WELD243 - Welding Engineering II
+WELD298R - Welding Internship
+WELD329 - Welding Codes, Certification & Inspection
+WELD338 - Welding Automation
+WELD350 - Physical Metallurgy
+WELD480 - Welding Fabrication
+WELD490R - Special Topics in Welding

@@ -1,0 +1,349 @@
+{
+    "certificates-2022":
+    [{
+        "name": "Administrative Assistant",
+        "code": "C101",
+        "classes": [
+            "BUS  115 - Business Applications",
+            "BUS  129 - Office Procedures",
+            "BUS  180 - The Cycle of Cash",
+            "BUS  240 - Word Processing I",
+            "COMM 130 - Visual Media",
+            "GS   170 - Career Development"
+        ]
+    },
+    {
+        "name": "Advanced Family History Research",
+        "code": "C130",
+        "classes": [
+            "FHGEN340 - Genealogical Writing",
+            "FHGEN351 - U.S. Geographic Specialization",
+            "FHGEN352 - Introduction to Genetic Genealogy",
+            "FHGEN411 - Research Methodology",
+            "IDS 398R - Interdisciplinary Internship"
+        ]
+    },
+    {
+        "name": "Advanced Marriage and Family Functioning",
+        "code": "C151",
+        "classes": [
+            "FAML 300 - Marriage",
+            "FAML 400 - Family Theories and Dynamics",
+            "FAML 460 - Child and Family Advocacy",
+            "MATH 221C - Social Science Statistics",
+            "PSYCH302 - Research Methods"
+        ]
+    },
+    {
+        "name": "Auto Services Technology",
+        "code": "C112",
+        "classes": [
+            "AUTO 125 - Automotive Ownership and Maintenance",
+            "AUTO 131 - Electrical Systems",
+            "AUTO 132 - Engine Performance",
+            "AUTO 155 - Chassis Systems",
+            "AUTO 201 - Drivetrains",
+            "AUTO 231 - Vehicle Electronics",
+            "AUTO 232 - Engine Management Systems",
+            "GS   170 - Career Development"
+        ]
+    },
+    {
+        "name": "Agribusiness Management",
+        "code": "C177",
+        "classes": [
+            "AGBUS105 - Entrepreneurship in Agribusiness",
+            "AGBUS138 - Introduction to Agribusiness Leadership and Group Dynamics",
+            "AGBUS147 - Introduction to International Agricultural Marketing",
+            "AGBUS180A - Economics and Budgeting Principles",
+            "AGBUS180B - Cash Accounting Concepts and Applications",
+            "AGBUS197R - Agribusiness Practicum"
+        ]
+    },
+    {
+        "name": "Business Administration",
+        "code": "C135",
+        "classes": [
+            "ACCTG202 - Managerial Accounting",
+            "BUS380 - International Business",
+            "FIN301 - Financial Management",
+            "MATH221A - Business Statistics",
+            "SCM361 - Operations Management"
+        ]
+    },
+    {
+        "name": "Business Analysis",
+        "code": "C149",
+        "classes": [
+            "CIT  111 - Introduction to Databases",
+            "CIT  381 - Business Intel and Analytics",
+            "CSE  110 - Programming Building Blocks",
+            "MATH221A - Business Statistics",
+            "SMMBC150 - Social Media Marketing Analytics"
+        ]
+    },
+    {
+        "name": "Business and Leadership Skills",
+        "code": "C148",
+        "classes": [
+            "ACCTG201 - Financial Accounting",
+            "BA   211 - Business Fundamentals",
+            "BUS  115 - Business Applications",
+            "BUS  321 - Organizational Leadership",
+            "MKT  241 - Marketing Management"
+        ]
+    },
+    {
+        "name": "Child and Family Advocacy",
+        "code": "C137",
+        "classes": [
+            "BUS  374 - Social Innovation",
+            "COMM 102 - Public Speaking",
+            "FAML 430 - Family and Community Relationships",
+            "POLSC110 - American Government (or POLSC170)",
+            "POLSC170 - International Politics (or POLSC110)",
+            "MKT351 - Social Media Marketing (or SMMBC160)",
+            "SMMBC160 - Social Media Marketing Advocacy and Advertising (or MKT351)"
+        ]
+    },
+    {
+        "name": "Commercial Fundamentals",
+        "code": "C111",
+        "classes": [
+            "BUS  115 - Business Applications",
+            "BUS  180 - The Cycle of Cash",
+            "COMM 175 - Communication Essentials",
+            "GS   170 - Career Development",
+            "MKT  120 - Sales & Customer Relations",
+            "SMMBC105 - Introduction to Social Media Marketing"
+        ]
+    },
+    {
+        "name": "Community Health Planning and Implementation",
+        "code": "C162",
+        "classes": [
+            "PUBH 240 - Introduction to Public Health",
+            "BUS  115 - Business Applications",
+            "GS   170 - Career Development",
+            "PUBH 320 - Communicable and Non-Communicable Diseases",
+            "PUBH 390 - Program Planning/Implementation",
+            "PUBH 472 - Health Communications"
+        ]
+    },
+    {
+        "name": "Community Health Methods and Evaluation",
+        "code": "C161",
+        "classes": [
+            "BUS  374 - Social Innovation",
+            "HCA  285 -  Introduction to Healthcare Administration",
+            "PUBH 381 - Program Evaluation",
+            "PUBH 391 - Research Methods",
+            "PUBH 401 - Community Health Methods",
+            "PUBH 420 - Health Behavior Theories and Models"
+        ]
+    },
+    {
+        "name": "Computer-Aided Design and Drafting",
+        "code": "C121",
+        "classes": [
+            "BUS  115 - Business Applications",
+            "GS   170 - Career Development",
+            "MATH 101 - Intermediate Algebra",
+            "ME   162 - Fundamentals in 2D CADD",
+            "ME   172 - Parametric Mechanical CAD",
+            "ME   272 - Mechanical CADD and GD&T"
+        ]
+    },
+    {
+        "name": "Construction Field Supervision",
+        "code": "C126",
+        "classes": [
+            "ARCH 270 - Construction Documents",
+            "CONST221 - Construction Safety",
+            "CONST285 - Construction Estimating",
+            "CONST291 - Field Scheduling",
+            "CONST380 - Project Management"
+        ]
+    },
+    {
+        "name": "Database",
+        "code": "C116",
+        "classes": [
+            "CIT  111 - Introduction to Databases",
+            "CIT  225 - Database Design & Development",
+            "CIT  325 - Database Programming",
+            "CIT  326 - Database Administration",
+            "CIT  327 - Data Warehousing"
+        ]
+    },
+    {
+        "name": "English as an International Language",
+        "code": "C120",
+        "classes": [
+            "EIL 170 - English International Language Listening",
+            "EIL 171 - English International Language Speaking",
+            "EIL 172 - English International Language Reading"
+        ]
+    },
+    {
+        "name": "Entrepreneurship",
+        "code": "C106",
+        "classes": [
+            "BUS  110 - Introduction to Entrepreneurship",
+            "BUS  115 - Business Applications",
+            "BUS  180 - The Cycle of Cash",
+            "BUS  210 - Small Business Creation",
+            "GS   170 - Career Development",
+            "MKT  120 - Sales & Customer Relations"
+        ]
+    },
+    {
+        "name": "Epidemiology",
+        "code": "C160",
+        "classes": [
+            "CIT  111 - Introduction to Databases",
+            "CSE  110 - Programming Building Blocks",
+            "MATH 221B - Biostatistics",
+            "OSH  310 - Environmental Health",
+            "PUBH 370 - Epidemiology"
+        ]
+    },
+    {
+        "name": "Family History Research",
+        "code": "C107",
+        "classes": [
+            "ACCTG201 - Financial Accounting",
+            "FHGEN120 - Internet and Computer Skills",
+            "FHGEN130 - Paleography",
+            "FHGEN241 - Introduction to Research Methodology",
+            "FHGEN242 - Introduction to Evidence Analysis",
+            "REL  261 - Introduction to Family History"
+        ]
+    },
+    {
+        "name": "Graphic Design Fundamentals",
+        "code": "C136",
+        "classes": [
+            "ART  130 - Introduction to Graphic Design",
+            "ART  230 - Typography",
+            "ART  235 - Graphic Design",
+            "ART  337R - User Experience Design",
+            "COMM 310 - Creating Online Media"
+        ]
+    },
+    {
+        "name": "Human Resource Management",
+        "code": "C140",
+        "classes": [
+            "BUS  270 - Human Resource Management",
+            "COMM 250 - Organizational Principles",
+            "COMM 450 - Conflict Management and Negotiation",
+            "PSYCH111 - General Psychology",
+            "BUS  375 - Business Law"
+        ]
+    },
+    {
+        "name": "Human Services",
+        "code": "C143",
+        "classes": [
+            "FAML 360 - Family Stress and Coping",
+            "FAML 420 - The Helping Relationship",
+            "FAML 430 - Family and Community Relationships",
+            "SW   463 - Child Welfare Services",
+            "PSYCH342 - Abnormal Psychology (or PUBH460)",
+            "PUBH 460 - Drugs of Use & Abuse (or PSYCH342)"
+        ]
+    },
+    {
+        "name": "Marriage, Family, and Human Relations",
+        "code": "C142",
+        "classes": [
+            "CHILD210 - Child Development",
+            "FAML 110 - Marriage Skills",
+            "FAML 150 - Introduction to Marriage & Family Studies",
+            "FAML 160 - Family Relations",
+            "FAML 220 - Parenting",
+            "PSYCH111 - General Psychology"
+        ]
+    },
+    {
+        "name": "Occupational Safety & Health",
+        "code": "C119",
+        "classes": [
+            "CONST221 - Construction Safety",
+            "OSH  310 - Environmental Health",
+            "OSH  384 - Industrial Fire Safety",
+            "OSH  484 - Accident Investigation and Prevention",
+            "OSH  486 - Occupational Safety and Risk Management"
+        ]
+    },
+    {
+        "name": "Parent and Family Education",
+        "code": "C144",
+        "classes": [
+            "CHILD330 - Parent Education",
+            "FAML 120 - Parenting Skills",
+            "FAML 200 - Preparation for Marriage",
+            "FAML 445 - Teaching Family Life Education",
+            "FCS  340 - Money Management",
+            "CHILD300 - Infant and Toddler Development (or CHILD310 or CHILD 320)",
+            "CHILD310 - Early and Middle Child Development (or CHILD300 or CHILD 320)",
+            "CHILD320 - Adolescent Development (or CHILD300 or CHILD 310)"
+        ]
+    },
+    {
+        "name": "System Administration",
+        "code": "C115",
+        "classes": [
+            "CIT  112 - Introduction to Linux",
+            "CIT  240 - Networking",
+            "CIT  262 - IT Management and DevOps",
+            "CIT  270 - Systems Security I",
+            "CIT  352 - Operating Systems I"
+        ]
+    },
+    {
+        "name": "TEFL (Teaching English as a Foreign Language)",
+        "code": "C174",
+        "classes": [
+            "GS   170 - Career Development",
+            "SPED 360 - Diverse and Exceptional Students",
+            "TESOL101 - Introduction to TESOL",
+            "TESOL102 - TESOL Pedagogy I",
+            "TESOL103 - TESOL Pedagogy II",
+            "TESOL104 - English Grammar for TESOL",
+            "TESOL105 - TESOL Practice"
+        ]
+    },
+    {
+        "name": "Web Development",
+        "code": "C175",
+        "classes": [
+            "CSE  340 - Web Backend Development I",
+            "CSE  341 - Web Backend Development II",
+            "WDD  230 - Web Frontend Development I",
+            "WDD  330 - Web Frontend Development II",
+            "CIT  225 - Database Design & Development (or WDD430)",
+            "WDD  430 - Web Full-Stack Development (or CIT225)"
+        ]
+    },
+    {
+        "name": "Web & Computer Programming",
+        "code": "C129",
+        "classes": [
+            "CSE  110 - Programming Building Blocks",
+            "CSE  111 - Programming with Functions",
+            "CSE  121B - JavaScript Language",
+            "CSE  210 - Programming with Classes",
+            "GS   170 - Career Development",
+            "WDD  130 - Web Fundamentals",
+            "WDD  230 - Web Frontend Development I"
+        ]
+    }
+]
+}
+
+
+
+
+
