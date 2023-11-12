@@ -35,7 +35,7 @@ The following are a list of resources I found useful when working on this projec
 * [Documentation for 'requests' library](https://requests.readthedocs.io/en/latest/)
 
 
-![Codeacademy Certificate](/docs/soup.png)
+![Codeacademy Certificate](/docs/soup.jpg)
 
 To learn how web scraping works, I completed the Codeacademy course for Web Scraping with BeautifulSoup.
 
