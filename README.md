@@ -43,6 +43,4 @@ To learn how web scraping works, I completed the Codeacademy course for Web Scra
 
 
 The following is a list of features that can be added in the future:
-* Comparing student's scheduled courses against the Academic Catalog documents
-* Using web scraping to check what classes the student has already completed.
 * Adding automation, to check multiple planners at the same time, while flagging any errors found.
