@@ -1,3 +1,5 @@
+![Title Banner](/docs/scraper.png)
+
 # Overview
 
 Degree Planner is a platform that students at BYU-Pathway Worldwide, an online educational institution, use to schedule what classes they want to take each semester. Sometimes, bugs in the system cause Degree Planner to not work properly, so the school has a team dedicated to trouble shooting these student planners.
@@ -31,6 +33,11 @@ The following are a list of resources I found useful when working on this projec
 * [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Automation using pyautogui](https://pyautogui.readthedocs.io/en/latest/)
 * [Documentation for 'requests' library](https://requests.readthedocs.io/en/latest/)
+
+
+![Codeacademy Certificate](/docs/soup.png)
+
+To learn how web scraping works, I completed the Codeacademy course for Web Scraping with BeautifulSoup.
 
 # Future Work
 
