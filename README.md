@@ -1,4 +1,4 @@
-![Title Banner](/docs/scraper.png)
+![Title Banner](/docs/banner.webp)
 
 # Overview
 
